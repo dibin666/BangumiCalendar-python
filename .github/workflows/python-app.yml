@@ -15,7 +15,8 @@ on:
       # https://tool.lu/crontab/
       # https://datetime360.com/cn/utc-cst-china-time/ #UTC时间 国际协调时间+8=北京时间
       # https://docs.github.com/cn/actions/using-workflows/workflow-syntax-for-github-actions#onschedule 官方参考
-
+  workflow_dispatch:
+  
 jobs:
   build:
 
