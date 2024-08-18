@@ -5,348 +5,182 @@ X-APPLE-CALENDAR-COLOR:#F699C
 X-WR-CALNAME:新番日历
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-SUMMARY:擅长逃跑的殿下 1
-DTSTART;VALUE=DATE:20240706
+SUMMARY:杖与剑的魔剑谭 1
+DTSTART;VALUE=DATE:20240707
 DTSTAMP;VALUE=DATE:20240818
-UID:424573-1-693068
+UID:479477-1-693068
 CLASS:PUBLIC
-DESCRIPTION:「5月22日」\n\n\n公元1333年，为日本的武士治国
- 打下基础的镰仓幕府，\n因为深得信赖的幕臣·足立高氏
- 的谋反而灭亡。\n\n失去一切、被推入绝望深渊的幕府正
- 统继承人·北条时行，\n在自称是神的神官·诹访赖重的
- 指引下逃出了化为焦土的镰仓……。\n\n时行在逃亡
+DESCRIPTION:「宛若一把剑」\n\n\n里加甸魔法学院六年级生
+ ──威尔・赛尔福特，被称为「只擅长学科的书呆子」
+ 。\n\n威尔连初阶魔法都无法使用，被大家藐视为学院的
+ 吊车尾。 \n\n为了遵守与儿时玩伴──艾尔法莉亚的约定
+ ，威尔作为魔导士，以最强称号「至高五杖」为目标，
+ 但这条路却遥
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:擅长逃跑的殿下 2
-DTSTART;VALUE=DATE:20240713
+SUMMARY:杖与剑的魔剑谭 2
+DTSTART;VALUE=DATE:20240714
 DTSTAMP;VALUE=DATE:20240818
-UID:424573-2-693068
+UID:479477-2-693068
 CLASS:PUBLIC
-DESCRIPTION:「温柔的舅父」\n\n\n公元1333年，为日本的武士
- 治国打下基础的镰仓幕府，\n因为深得信赖的幕臣·足立
- 高氏的谋反而灭亡。\n\n失去一切、被推入绝望深渊的幕
- 府正统继承人·北条时行，\n在自称是神的神官·诹访赖
- 重的指引下逃出了化为焦土的镰仓……。\n\n时行在逃亡
+DESCRIPTION:「不屈不挠」\n\n\n里加甸魔法学院六年级生─
+ ─威尔・赛尔福特，被称为「只擅长学科的书呆子」。\n
+ \n威尔连初阶魔法都无法使用，被大家藐视为学院的吊车
+ 尾。 \n\n为了遵守与儿时玩伴──艾尔法莉亚的约定，威
+ 尔作为魔导士，以最强称号「至高五杖」为目标，但这
+ 条路却遥
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:擅长逃跑的殿下 3
-DTSTART;VALUE=DATE:20240720
+SUMMARY:杖与剑的魔剑谭 3
+DTSTART;VALUE=DATE:20240721
 DTSTAMP;VALUE=DATE:20240818
-UID:424573-3-693068
+UID:479477-3-693068
 CLASS:PUBLIC
-DESCRIPTION:「神居住的森林」\n\n\n公元1333年，为日本的武
- 士治国打下基础的镰仓幕府，\n因为深得信赖的幕臣·足
- 立高氏的谋反而灭亡。\n\n失去一切、被推入绝望深渊的
- 幕府正统继承人·北条时行，\n在自称是神的神官·诹访
- 赖重的指引下逃出了化为焦土的镰仓……。\n\n时行在逃
- 亡
+DESCRIPTION:「」\n\n\n里加甸魔法学院六年级生──威尔・
+ 赛尔福特，被称为「只擅长学科的书呆子」。\n\n威尔连
+ 初阶魔法都无法使用，被大家藐视为学院的吊车尾。 \n\n
+ 为了遵守与儿时玩伴──艾尔法莉亚的约定，威尔作为
+ 魔导士，以最强称号「至高五杖」为目标，但这条路却
+ 遥
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:擅长逃跑的殿下 4
-DTSTART;VALUE=DATE:20240727
+SUMMARY:杖与剑的魔剑谭 4
+DTSTART;VALUE=DATE:20240804
 DTSTAMP;VALUE=DATE:20240818
-UID:424573-4-693068
+UID:479477-4-693068
 CLASS:PUBLIC
-DESCRIPTION:「贞宗登场！」\n\n\n公元1333年，为日本的武士
- 治国打下基础的镰仓幕府，\n因为深得信赖的幕臣·足立
- 高氏的谋反而灭亡。\n\n失去一切、被推入绝望深渊的幕
- 府正统继承人·北条时行，\n在自称是神的神官·诹访赖
- 重的指引下逃出了化为焦土的镰仓……。\n\n时行在逃亡
+DESCRIPTION:「大祭前夜」\n\n\n里加甸魔法学院六年级生─
+ ─威尔・赛尔福特，被称为「只擅长学科的书呆子」。\n
+ \n威尔连初阶魔法都无法使用，被大家藐视为学院的吊车
+ 尾。 \n\n为了遵守与儿时玩伴──艾尔法莉亚的约定，威
+ 尔作为魔导士，以最强称号「至高五杖」为目标，但这
+ 条路却遥
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:擅长逃跑的殿下 5
-DTSTART;VALUE=DATE:20240803
+SUMMARY:杖与剑的魔剑谭 5
+DTSTART;VALUE=DATE:20240811
 DTSTAMP;VALUE=DATE:20240818
-UID:424573-5-693068
+UID:479477-5-693068
 CLASS:PUBLIC
-DESCRIPTION:「犬追物胜负揭晓！然后...」\n\n\n公元1333年，
- 为日本的武士治国打下基础的镰仓幕府，\n因为深得信赖
- 的幕臣·足立高氏的谋反而灭亡。\n\n失去一切、被推入
- 绝望深渊的幕府正统继承人·北条时行，\n在自称是神的
- 神官·诹访赖重的指引下逃出了化为焦土的镰仓……。\n\
- n时行在逃亡
+DESCRIPTION:「当号炮响起」\n\n\n里加甸魔法学院六年级生
+ ──威尔・赛尔福特，被称为「只擅长学科的书呆子」
+ 。\n\n威尔连初阶魔法都无法使用，被大家藐视为学院的
+ 吊车尾。 \n\n为了遵守与儿时玩伴──艾尔法莉亚的约定
+ ，威尔作为魔导士，以最强称号「至高五杖」为目标，
+ 但这条路却遥
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:擅长逃跑的殿下 6
-DTSTART;VALUE=DATE:20240810
+SUMMARY:杖与剑的魔剑谭 6
+DTSTART;VALUE=DATE:20240818
 DTSTAMP;VALUE=DATE:20240818
-UID:424573-6-693068
+UID:479477-6-693068
 CLASS:PUBLIC
-DESCRIPTION:「把纶旨偷到手，小笠原馆之夜」\n\n\n公元1333
- 年，为日本的武士治国打下基础的镰仓幕府，\n因为深得
- 信赖的幕臣·足立高氏的谋反而灭亡。\n\n失去一切、被
- 推入绝望深渊的幕府正统继承人·北条时行，\n在自称是
- 神的神官·诹访赖重的指引下逃出了化为焦土的镰仓……
- 。\n\n时行在逃亡
+DESCRIPTION:「矜持与热情之间」\n\n\n里加甸魔法学院六年
+ 级生──威尔・赛尔福特，被称为「只擅长学科的书呆
+ 子」。\n\n威尔连初阶魔法都无法使用，被大家藐视为学
+ 院的吊车尾。 \n\n为了遵守与儿时玩伴──艾尔法莉亚的
+ 约定，威尔作为魔导士，以最强称号「至高五杖」为目
+ 标，但这条路却遥
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:擅长逃跑的殿下 7
-DTSTART;VALUE=DATE:20240817
+SUMMARY:杖与剑的魔剑谭 7
+DTSTART;VALUE=DATE:20240825
 DTSTAMP;VALUE=DATE:20240818
-UID:424573-7-693068
+UID:479477-7-693068
 CLASS:PUBLIC
-DESCRIPTION:「冬季的孩子们」\n\n\n公元1333年，为日本的武
- 士治国打下基础的镰仓幕府，\n因为深得信赖的幕臣·足
- 立高氏的谋反而灭亡。\n\n失去一切、被推入绝望深渊的
- 幕府正统继承人·北条时行，\n在自称是神的神官·诹访
- 赖重的指引下逃出了化为焦土的镰仓……。\n\n时行在逃
- 亡
+DESCRIPTION:「」\n\n\n里加甸魔法学院六年级生──威尔・
+ 赛尔福特，被称为「只擅长学科的书呆子」。\n\n威尔连
+ 初阶魔法都无法使用，被大家藐视为学院的吊车尾。 \n\n
+ 为了遵守与儿时玩伴──艾尔法莉亚的约定，威尔作为
+ 魔导士，以最强称号「至高五杖」为目标，但这条路却
+ 遥
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:擅长逃跑的殿下 8
-DTSTART;VALUE=DATE:20240824
+SUMMARY:杖与剑的魔剑谭 8
+DTSTART;VALUE=DATE:20240901
 DTSTAMP;VALUE=DATE:20240818
-UID:424573-8-693068
+UID:479477-8-693068
 CLASS:PUBLIC
-DESCRIPTION:「捉迷藏战争」\n\n\n公元1333年，为日本的武士
- 治国打下基础的镰仓幕府，\n因为深得信赖的幕臣·足立
- 高氏的谋反而灭亡。\n\n失去一切、被推入绝望深渊的幕
- 府正统继承人·北条时行，\n在自称是神的神官·诹访赖
- 重的指引下逃出了化为焦土的镰仓……。\n\n时行在逃亡
+DESCRIPTION:「」\n\n\n里加甸魔法学院六年级生──威尔・
+ 赛尔福特，被称为「只擅长学科的书呆子」。\n\n威尔连
+ 初阶魔法都无法使用，被大家藐视为学院的吊车尾。 \n\n
+ 为了遵守与儿时玩伴──艾尔法莉亚的约定，威尔作为
+ 魔导士，以最强称号「至高五杖」为目标，但这条路却
+ 遥
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:擅长逃跑的殿下 9
-DTSTART;VALUE=DATE:20240831
+SUMMARY:杖与剑的魔剑谭 9
+DTSTART;VALUE=DATE:20240908
 DTSTAMP;VALUE=DATE:20240818
-UID:424573-9-693068
+UID:479477-9-693068
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n公元1333年，为日本的武士治国打下基
- 础的镰仓幕府，\n因为深得信赖的幕臣·足立高氏的谋反
- 而灭亡。\n\n失去一切、被推入绝望深渊的幕府正统继承
- 人·北条时行，\n在自称是神的神官·诹访赖重的指引下
- 逃出了化为焦土的镰仓……。\n\n时行在逃亡
+DESCRIPTION:「」\n\n\n里加甸魔法学院六年级生──威尔・
+ 赛尔福特，被称为「只擅长学科的书呆子」。\n\n威尔连
+ 初阶魔法都无法使用，被大家藐视为学院的吊车尾。 \n\n
+ 为了遵守与儿时玩伴──艾尔法莉亚的约定，威尔作为
+ 魔导士，以最强称号「至高五杖」为目标，但这条路却
+ 遥
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:擅长逃跑的殿下 10
-DTSTART;VALUE=DATE:20240907
+SUMMARY:杖与剑的魔剑谭 10
+DTSTART;VALUE=DATE:20240915
 DTSTAMP;VALUE=DATE:20240818
-UID:424573-10-693068
+UID:479477-10-693068
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n公元1333年，为日本的武士治国打下基
- 础的镰仓幕府，\n因为深得信赖的幕臣·足立高氏的谋反
- 而灭亡。\n\n失去一切、被推入绝望深渊的幕府正统继承
- 人·北条时行，\n在自称是神的神官·诹访赖重的指引下
- 逃出了化为焦土的镰仓……。\n\n时行在逃亡
+DESCRIPTION:「」\n\n\n里加甸魔法学院六年级生──威尔・
+ 赛尔福特，被称为「只擅长学科的书呆子」。\n\n威尔连
+ 初阶魔法都无法使用，被大家藐视为学院的吊车尾。 \n\n
+ 为了遵守与儿时玩伴──艾尔法莉亚的约定，威尔作为
+ 魔导士，以最强称号「至高五杖」为目标，但这条路却
+ 遥
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:擅长逃跑的殿下 11
-DTSTART;VALUE=DATE:20240914
+SUMMARY:杖与剑的魔剑谭 11
+DTSTART;VALUE=DATE:20240922
 DTSTAMP;VALUE=DATE:20240818
-UID:424573-11-693068
+UID:479477-11-693068
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n公元1333年，为日本的武士治国打下基
- 础的镰仓幕府，\n因为深得信赖的幕臣·足立高氏的谋反
- 而灭亡。\n\n失去一切、被推入绝望深渊的幕府正统继承
- 人·北条时行，\n在自称是神的神官·诹访赖重的指引下
- 逃出了化为焦土的镰仓……。\n\n时行在逃亡
+DESCRIPTION:「」\n\n\n里加甸魔法学院六年级生──威尔・
+ 赛尔福特，被称为「只擅长学科的书呆子」。\n\n威尔连
+ 初阶魔法都无法使用，被大家藐视为学院的吊车尾。 \n\n
+ 为了遵守与儿时玩伴──艾尔法莉亚的约定，威尔作为
+ 魔导士，以最强称号「至高五杖」为目标，但这条路却
+ 遥
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:擅长逃跑的殿下 12
-DTSTART;VALUE=DATE:20240921
+SUMMARY:杖与剑的魔剑谭 12
+DTSTART;VALUE=DATE:20240929
 DTSTAMP;VALUE=DATE:20240818
-UID:424573-12-693068
+UID:479477-12-693068
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n公元1333年，为日本的武士治国打下基
- 础的镰仓幕府，\n因为深得信赖的幕臣·足立高氏的谋反
- 而灭亡。\n\n失去一切、被推入绝望深渊的幕府正统继承
- 人·北条时行，\n在自称是神的神官·诹访赖重的指引下
- 逃出了化为焦土的镰仓……。\n\n时行在逃亡
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:败犬女主太多了！ 1
-DTSTART;VALUE=DATE:20240713
-DTSTAMP;VALUE=DATE:20240818
-UID:464376-1-693068
-CLASS:PUBLIC
-DESCRIPTION:「专业青梅竹马八奈见杏菜的败相」\n\n\n没能
- 赢得心上人恋情的女孩——“败犬女主”。\n爱吃的青梅
- 竹马系女主·八奈见杏菜。\n活力充沛的运动系女主·烧
- 盐柠檬。\n怕生的小动物系女主·小鞠知花。\n被有点缺
- 憾的败犬女主——败女们环绕，新感觉、乱糟糟的败走
- 系青春故事就此揭幕。\n因失败
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:败犬女主太多了！ 2
-DTSTART;VALUE=DATE:20240720
-DTSTAMP;VALUE=DATE:20240818
-UID:464376-2-693068
-CLASS:PUBLIC
-DESCRIPTION:「为你献上命中注定的败北」\n\n\n没能赢得心
- 上人恋情的女孩——“败犬女主”。\n爱吃的青梅竹马系
- 女主·八奈见杏菜。\n活力充沛的运动系女主·烧盐柠檬
- 。\n怕生的小动物系女主·小鞠知花。\n被有点缺憾的败
- 犬女主——败女们环绕，新感觉、乱糟糟的败走系青春
- 故事就此揭幕。\n因失败
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:败犬女主太多了！ 3
-DTSTART;VALUE=DATE:20240727
-DTSTAMP;VALUE=DATE:20240818
-UID:464376-3-693068
-CLASS:PUBLIC
-DESCRIPTION:「还没上场就输了」\n\n\n没能赢得心上人恋情
- 的女孩——“败犬女主”。\n爱吃的青梅竹马系女主·八
- 奈见杏菜。\n活力充沛的运动系女主·烧盐柠檬。\n怕生
- 的小动物系女主·小鞠知花。\n被有点缺憾的败犬女主—
- —败女们环绕，新感觉、乱糟糟的败走系青春故事就此
- 揭幕。\n因失败
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:败犬女主太多了！ 4
-DTSTART;VALUE=DATE:20240803
-DTSTAMP;VALUE=DATE:20240818
-UID:464376-4-693068
-CLASS:PUBLIC
-DESCRIPTION:「当你凝视败北女角，败北女角也凝视着你」\n
- \n\n没能赢得心上人恋情的女孩——“败犬女主”。\n爱
- 吃的青梅竹马系女主·八奈见杏菜。\n活力充沛的运动系
- 女主·烧盐柠檬。\n怕生的小动物系女主·小鞠知花。\n被
- 有点缺憾的败犬女主——败女们环绕，新感觉、乱糟糟
- 的败走系青春故事就此揭幕。\n因失败
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:败犬女主太多了！ 5
-DTSTART;VALUE=DATE:20240810
-DTSTAMP;VALUE=DATE:20240818
-UID:464376-5-693068
-CLASS:PUBLIC
-DESCRIPTION:「朝云千早使人迷惑」\n\n\n没能赢得心上人恋
- 情的女孩——“败犬女主”。\n爱吃的青梅竹马系女主·
- 八奈见杏菜。\n活力充沛的运动系女主·烧盐柠檬。\n怕
- 生的小动物系女主·小鞠知花。\n被有点缺憾的败犬女主
- ——败女们环绕，新感觉、乱糟糟的败走系青春故事就
- 此揭幕。\n因失败
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:败犬女主太多了！ 6
-DTSTART;VALUE=DATE:20240817
-DTSTAMP;VALUE=DATE:20240818
-UID:464376-6-693068
-CLASS:PUBLIC
-DESCRIPTION:「你们谁是没被甩过的 谁就可以拿石头丢败北
- 女角」\n\n\n没能赢得心上人恋情的女孩——“败犬女主
- ”。\n爱吃的青梅竹马系女主·八奈见杏菜。\n活力充沛
- 的运动系女主·烧盐柠檬。\n怕生的小动物系女主·小鞠
- 知花。\n被有点缺憾的败犬女主——败女们环绕，新感觉
- 、乱糟糟的败走系青春故事就此揭幕。\n因失败
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:败犬女主太多了！ 7
-DTSTART;VALUE=DATE:20240824
-DTSTAMP;VALUE=DATE:20240818
-UID:464376-7-693068
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n没能赢得心上人恋情的女孩——“败
- 犬女主”。\n爱吃的青梅竹马系女主·八奈见杏菜。\n活
- 力充沛的运动系女主·烧盐柠檬。\n怕生的小动物系女主
- ·小鞠知花。\n被有点缺憾的败犬女主——败女们环绕，
- 新感觉、乱糟糟的败走系青春故事就此揭幕。\n因失败
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:败犬女主太多了！ 8
-DTSTART;VALUE=DATE:20240831
-DTSTAMP;VALUE=DATE:20240818
-UID:464376-8-693068
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n没能赢得心上人恋情的女孩——“败
- 犬女主”。\n爱吃的青梅竹马系女主·八奈见杏菜。\n活
- 力充沛的运动系女主·烧盐柠檬。\n怕生的小动物系女主
- ·小鞠知花。\n被有点缺憾的败犬女主——败女们环绕，
- 新感觉、乱糟糟的败走系青春故事就此揭幕。\n因失败
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:败犬女主太多了！ 9
-DTSTART;VALUE=DATE:20240907
-DTSTAMP;VALUE=DATE:20240818
-UID:464376-9-693068
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n没能赢得心上人恋情的女孩——“败
- 犬女主”。\n爱吃的青梅竹马系女主·八奈见杏菜。\n活
- 力充沛的运动系女主·烧盐柠檬。\n怕生的小动物系女主
- ·小鞠知花。\n被有点缺憾的败犬女主——败女们环绕，
- 新感觉、乱糟糟的败走系青春故事就此揭幕。\n因失败
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:败犬女主太多了！ 10
-DTSTART;VALUE=DATE:20240914
-DTSTAMP;VALUE=DATE:20240818
-UID:464376-10-693068
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n没能赢得心上人恋情的女孩——“败
- 犬女主”。\n爱吃的青梅竹马系女主·八奈见杏菜。\n活
- 力充沛的运动系女主·烧盐柠檬。\n怕生的小动物系女主
- ·小鞠知花。\n被有点缺憾的败犬女主——败女们环绕，
- 新感觉、乱糟糟的败走系青春故事就此揭幕。\n因失败
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:败犬女主太多了！ 11
-DTSTART;VALUE=DATE:20240921
-DTSTAMP;VALUE=DATE:20240818
-UID:464376-11-693068
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n没能赢得心上人恋情的女孩——“败
- 犬女主”。\n爱吃的青梅竹马系女主·八奈见杏菜。\n活
- 力充沛的运动系女主·烧盐柠檬。\n怕生的小动物系女主
- ·小鞠知花。\n被有点缺憾的败犬女主——败女们环绕，
- 新感觉、乱糟糟的败走系青春故事就此揭幕。\n因失败
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:败犬女主太多了！ 12
-DTSTART;VALUE=DATE:20240928
-DTSTAMP;VALUE=DATE:20240818
-UID:464376-12-693068
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n没能赢得心上人恋情的女孩——“败
- 犬女主”。\n爱吃的青梅竹马系女主·八奈见杏菜。\n活
- 力充沛的运动系女主·烧盐柠檬。\n怕生的小动物系女主
- ·小鞠知花。\n被有点缺憾的败犬女主——败女们环绕，
- 新感觉、乱糟糟的败走系青春故事就此揭幕。\n因失败
+DESCRIPTION:「」\n\n\n里加甸魔法学院六年级生──威尔・
+ 赛尔福特，被称为「只擅长学科的书呆子」。\n\n威尔连
+ 初阶魔法都无法使用，被大家藐视为学院的吊车尾。 \n\n
+ 为了遵守与儿时玩伴──艾尔法莉亚的约定，威尔作为
+ 魔导士，以最强称号「至高五杖」为目标，但这条路却
+ 遥
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -991,6 +825,352 @@ DESCRIPTION:「逃出」\n\n\nU.C.（宇宙世纪）0079年，人类向宇
  宙中。卫星的居民们不堪忍受地球联邦政府对其剥削和
  压迫，遂宣布独立，更组建军队与地球联邦政府决一雌
  雄。在战争中双方先后开发了机动战士并投入战场。NEWTY
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:擅长逃跑的殿下 1
+DTSTART;VALUE=DATE:20240706
+DTSTAMP;VALUE=DATE:20240818
+UID:424573-1-693068
+CLASS:PUBLIC
+DESCRIPTION:「5月22日」\n\n\n公元1333年，为日本的武士治国
+ 打下基础的镰仓幕府，\n因为深得信赖的幕臣·足立高氏
+ 的谋反而灭亡。\n\n失去一切、被推入绝望深渊的幕府正
+ 统继承人·北条时行，\n在自称是神的神官·诹访赖重的
+ 指引下逃出了化为焦土的镰仓……。\n\n时行在逃亡
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:擅长逃跑的殿下 2
+DTSTART;VALUE=DATE:20240713
+DTSTAMP;VALUE=DATE:20240818
+UID:424573-2-693068
+CLASS:PUBLIC
+DESCRIPTION:「温柔的舅父」\n\n\n公元1333年，为日本的武士
+ 治国打下基础的镰仓幕府，\n因为深得信赖的幕臣·足立
+ 高氏的谋反而灭亡。\n\n失去一切、被推入绝望深渊的幕
+ 府正统继承人·北条时行，\n在自称是神的神官·诹访赖
+ 重的指引下逃出了化为焦土的镰仓……。\n\n时行在逃亡
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:擅长逃跑的殿下 3
+DTSTART;VALUE=DATE:20240720
+DTSTAMP;VALUE=DATE:20240818
+UID:424573-3-693068
+CLASS:PUBLIC
+DESCRIPTION:「神居住的森林」\n\n\n公元1333年，为日本的武
+ 士治国打下基础的镰仓幕府，\n因为深得信赖的幕臣·足
+ 立高氏的谋反而灭亡。\n\n失去一切、被推入绝望深渊的
+ 幕府正统继承人·北条时行，\n在自称是神的神官·诹访
+ 赖重的指引下逃出了化为焦土的镰仓……。\n\n时行在逃
+ 亡
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:擅长逃跑的殿下 4
+DTSTART;VALUE=DATE:20240727
+DTSTAMP;VALUE=DATE:20240818
+UID:424573-4-693068
+CLASS:PUBLIC
+DESCRIPTION:「贞宗登场！」\n\n\n公元1333年，为日本的武士
+ 治国打下基础的镰仓幕府，\n因为深得信赖的幕臣·足立
+ 高氏的谋反而灭亡。\n\n失去一切、被推入绝望深渊的幕
+ 府正统继承人·北条时行，\n在自称是神的神官·诹访赖
+ 重的指引下逃出了化为焦土的镰仓……。\n\n时行在逃亡
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:擅长逃跑的殿下 5
+DTSTART;VALUE=DATE:20240803
+DTSTAMP;VALUE=DATE:20240818
+UID:424573-5-693068
+CLASS:PUBLIC
+DESCRIPTION:「犬追物胜负揭晓！然后...」\n\n\n公元1333年，
+ 为日本的武士治国打下基础的镰仓幕府，\n因为深得信赖
+ 的幕臣·足立高氏的谋反而灭亡。\n\n失去一切、被推入
+ 绝望深渊的幕府正统继承人·北条时行，\n在自称是神的
+ 神官·诹访赖重的指引下逃出了化为焦土的镰仓……。\n\
+ n时行在逃亡
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:擅长逃跑的殿下 6
+DTSTART;VALUE=DATE:20240810
+DTSTAMP;VALUE=DATE:20240818
+UID:424573-6-693068
+CLASS:PUBLIC
+DESCRIPTION:「把纶旨偷到手，小笠原馆之夜」\n\n\n公元1333
+ 年，为日本的武士治国打下基础的镰仓幕府，\n因为深得
+ 信赖的幕臣·足立高氏的谋反而灭亡。\n\n失去一切、被
+ 推入绝望深渊的幕府正统继承人·北条时行，\n在自称是
+ 神的神官·诹访赖重的指引下逃出了化为焦土的镰仓……
+ 。\n\n时行在逃亡
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:擅长逃跑的殿下 7
+DTSTART;VALUE=DATE:20240817
+DTSTAMP;VALUE=DATE:20240818
+UID:424573-7-693068
+CLASS:PUBLIC
+DESCRIPTION:「冬季的孩子们」\n\n\n公元1333年，为日本的武
+ 士治国打下基础的镰仓幕府，\n因为深得信赖的幕臣·足
+ 立高氏的谋反而灭亡。\n\n失去一切、被推入绝望深渊的
+ 幕府正统继承人·北条时行，\n在自称是神的神官·诹访
+ 赖重的指引下逃出了化为焦土的镰仓……。\n\n时行在逃
+ 亡
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:擅长逃跑的殿下 8
+DTSTART;VALUE=DATE:20240824
+DTSTAMP;VALUE=DATE:20240818
+UID:424573-8-693068
+CLASS:PUBLIC
+DESCRIPTION:「捉迷藏战争」\n\n\n公元1333年，为日本的武士
+ 治国打下基础的镰仓幕府，\n因为深得信赖的幕臣·足立
+ 高氏的谋反而灭亡。\n\n失去一切、被推入绝望深渊的幕
+ 府正统继承人·北条时行，\n在自称是神的神官·诹访赖
+ 重的指引下逃出了化为焦土的镰仓……。\n\n时行在逃亡
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:擅长逃跑的殿下 9
+DTSTART;VALUE=DATE:20240831
+DTSTAMP;VALUE=DATE:20240818
+UID:424573-9-693068
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n公元1333年，为日本的武士治国打下基
+ 础的镰仓幕府，\n因为深得信赖的幕臣·足立高氏的谋反
+ 而灭亡。\n\n失去一切、被推入绝望深渊的幕府正统继承
+ 人·北条时行，\n在自称是神的神官·诹访赖重的指引下
+ 逃出了化为焦土的镰仓……。\n\n时行在逃亡
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:擅长逃跑的殿下 10
+DTSTART;VALUE=DATE:20240907
+DTSTAMP;VALUE=DATE:20240818
+UID:424573-10-693068
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n公元1333年，为日本的武士治国打下基
+ 础的镰仓幕府，\n因为深得信赖的幕臣·足立高氏的谋反
+ 而灭亡。\n\n失去一切、被推入绝望深渊的幕府正统继承
+ 人·北条时行，\n在自称是神的神官·诹访赖重的指引下
+ 逃出了化为焦土的镰仓……。\n\n时行在逃亡
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:擅长逃跑的殿下 11
+DTSTART;VALUE=DATE:20240914
+DTSTAMP;VALUE=DATE:20240818
+UID:424573-11-693068
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n公元1333年，为日本的武士治国打下基
+ 础的镰仓幕府，\n因为深得信赖的幕臣·足立高氏的谋反
+ 而灭亡。\n\n失去一切、被推入绝望深渊的幕府正统继承
+ 人·北条时行，\n在自称是神的神官·诹访赖重的指引下
+ 逃出了化为焦土的镰仓……。\n\n时行在逃亡
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:擅长逃跑的殿下 12
+DTSTART;VALUE=DATE:20240921
+DTSTAMP;VALUE=DATE:20240818
+UID:424573-12-693068
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n公元1333年，为日本的武士治国打下基
+ 础的镰仓幕府，\n因为深得信赖的幕臣·足立高氏的谋反
+ 而灭亡。\n\n失去一切、被推入绝望深渊的幕府正统继承
+ 人·北条时行，\n在自称是神的神官·诹访赖重的指引下
+ 逃出了化为焦土的镰仓……。\n\n时行在逃亡
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:败犬女主太多了！ 1
+DTSTART;VALUE=DATE:20240713
+DTSTAMP;VALUE=DATE:20240818
+UID:464376-1-693068
+CLASS:PUBLIC
+DESCRIPTION:「专业青梅竹马八奈见杏菜的败相」\n\n\n没能
+ 赢得心上人恋情的女孩——“败犬女主”。\n爱吃的青梅
+ 竹马系女主·八奈见杏菜。\n活力充沛的运动系女主·烧
+ 盐柠檬。\n怕生的小动物系女主·小鞠知花。\n被有点缺
+ 憾的败犬女主——败女们环绕，新感觉、乱糟糟的败走
+ 系青春故事就此揭幕。\n因失败
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:败犬女主太多了！ 2
+DTSTART;VALUE=DATE:20240720
+DTSTAMP;VALUE=DATE:20240818
+UID:464376-2-693068
+CLASS:PUBLIC
+DESCRIPTION:「为你献上命中注定的败北」\n\n\n没能赢得心
+ 上人恋情的女孩——“败犬女主”。\n爱吃的青梅竹马系
+ 女主·八奈见杏菜。\n活力充沛的运动系女主·烧盐柠檬
+ 。\n怕生的小动物系女主·小鞠知花。\n被有点缺憾的败
+ 犬女主——败女们环绕，新感觉、乱糟糟的败走系青春
+ 故事就此揭幕。\n因失败
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:败犬女主太多了！ 3
+DTSTART;VALUE=DATE:20240727
+DTSTAMP;VALUE=DATE:20240818
+UID:464376-3-693068
+CLASS:PUBLIC
+DESCRIPTION:「还没上场就输了」\n\n\n没能赢得心上人恋情
+ 的女孩——“败犬女主”。\n爱吃的青梅竹马系女主·八
+ 奈见杏菜。\n活力充沛的运动系女主·烧盐柠檬。\n怕生
+ 的小动物系女主·小鞠知花。\n被有点缺憾的败犬女主—
+ —败女们环绕，新感觉、乱糟糟的败走系青春故事就此
+ 揭幕。\n因失败
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:败犬女主太多了！ 4
+DTSTART;VALUE=DATE:20240803
+DTSTAMP;VALUE=DATE:20240818
+UID:464376-4-693068
+CLASS:PUBLIC
+DESCRIPTION:「当你凝视败北女角，败北女角也凝视着你」\n
+ \n\n没能赢得心上人恋情的女孩——“败犬女主”。\n爱
+ 吃的青梅竹马系女主·八奈见杏菜。\n活力充沛的运动系
+ 女主·烧盐柠檬。\n怕生的小动物系女主·小鞠知花。\n被
+ 有点缺憾的败犬女主——败女们环绕，新感觉、乱糟糟
+ 的败走系青春故事就此揭幕。\n因失败
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:败犬女主太多了！ 5
+DTSTART;VALUE=DATE:20240810
+DTSTAMP;VALUE=DATE:20240818
+UID:464376-5-693068
+CLASS:PUBLIC
+DESCRIPTION:「朝云千早使人迷惑」\n\n\n没能赢得心上人恋
+ 情的女孩——“败犬女主”。\n爱吃的青梅竹马系女主·
+ 八奈见杏菜。\n活力充沛的运动系女主·烧盐柠檬。\n怕
+ 生的小动物系女主·小鞠知花。\n被有点缺憾的败犬女主
+ ——败女们环绕，新感觉、乱糟糟的败走系青春故事就
+ 此揭幕。\n因失败
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:败犬女主太多了！ 6
+DTSTART;VALUE=DATE:20240817
+DTSTAMP;VALUE=DATE:20240818
+UID:464376-6-693068
+CLASS:PUBLIC
+DESCRIPTION:「你们谁是没被甩过的 谁就可以拿石头丢败北
+ 女角」\n\n\n没能赢得心上人恋情的女孩——“败犬女主
+ ”。\n爱吃的青梅竹马系女主·八奈见杏菜。\n活力充沛
+ 的运动系女主·烧盐柠檬。\n怕生的小动物系女主·小鞠
+ 知花。\n被有点缺憾的败犬女主——败女们环绕，新感觉
+ 、乱糟糟的败走系青春故事就此揭幕。\n因失败
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:败犬女主太多了！ 7
+DTSTART;VALUE=DATE:20240824
+DTSTAMP;VALUE=DATE:20240818
+UID:464376-7-693068
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n没能赢得心上人恋情的女孩——“败
+ 犬女主”。\n爱吃的青梅竹马系女主·八奈见杏菜。\n活
+ 力充沛的运动系女主·烧盐柠檬。\n怕生的小动物系女主
+ ·小鞠知花。\n被有点缺憾的败犬女主——败女们环绕，
+ 新感觉、乱糟糟的败走系青春故事就此揭幕。\n因失败
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:败犬女主太多了！ 8
+DTSTART;VALUE=DATE:20240831
+DTSTAMP;VALUE=DATE:20240818
+UID:464376-8-693068
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n没能赢得心上人恋情的女孩——“败
+ 犬女主”。\n爱吃的青梅竹马系女主·八奈见杏菜。\n活
+ 力充沛的运动系女主·烧盐柠檬。\n怕生的小动物系女主
+ ·小鞠知花。\n被有点缺憾的败犬女主——败女们环绕，
+ 新感觉、乱糟糟的败走系青春故事就此揭幕。\n因失败
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:败犬女主太多了！ 9
+DTSTART;VALUE=DATE:20240907
+DTSTAMP;VALUE=DATE:20240818
+UID:464376-9-693068
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n没能赢得心上人恋情的女孩——“败
+ 犬女主”。\n爱吃的青梅竹马系女主·八奈见杏菜。\n活
+ 力充沛的运动系女主·烧盐柠檬。\n怕生的小动物系女主
+ ·小鞠知花。\n被有点缺憾的败犬女主——败女们环绕，
+ 新感觉、乱糟糟的败走系青春故事就此揭幕。\n因失败
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:败犬女主太多了！ 10
+DTSTART;VALUE=DATE:20240914
+DTSTAMP;VALUE=DATE:20240818
+UID:464376-10-693068
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n没能赢得心上人恋情的女孩——“败
+ 犬女主”。\n爱吃的青梅竹马系女主·八奈见杏菜。\n活
+ 力充沛的运动系女主·烧盐柠檬。\n怕生的小动物系女主
+ ·小鞠知花。\n被有点缺憾的败犬女主——败女们环绕，
+ 新感觉、乱糟糟的败走系青春故事就此揭幕。\n因失败
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:败犬女主太多了！ 11
+DTSTART;VALUE=DATE:20240921
+DTSTAMP;VALUE=DATE:20240818
+UID:464376-11-693068
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n没能赢得心上人恋情的女孩——“败
+ 犬女主”。\n爱吃的青梅竹马系女主·八奈见杏菜。\n活
+ 力充沛的运动系女主·烧盐柠檬。\n怕生的小动物系女主
+ ·小鞠知花。\n被有点缺憾的败犬女主——败女们环绕，
+ 新感觉、乱糟糟的败走系青春故事就此揭幕。\n因失败
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:败犬女主太多了！ 12
+DTSTART;VALUE=DATE:20240928
+DTSTAMP;VALUE=DATE:20240818
+UID:464376-12-693068
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n没能赢得心上人恋情的女孩——“败
+ 犬女主”。\n爱吃的青梅竹马系女主·八奈见杏菜。\n活
+ 力充沛的运动系女主·烧盐柠檬。\n怕生的小动物系女主
+ ·小鞠知花。\n被有点缺憾的败犬女主——败女们环绕，
+ 新感觉、乱糟糟的败走系青春故事就此揭幕。\n因失败
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -2546,186 +2726,6 @@ DESCRIPTION:「」\n\n\n全世界最多觀看次數的影片分享平台
  真咲真希，\n由於直播中的問題行為引發炎上，\n最終被
  頻道開除並趕了出來。\n\n為了絕地反擊，真咲遇到了對
  她有命運感應的吸血鬼利布。
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:杖与剑的魔剑谭 1
-DTSTART;VALUE=DATE:20240707
-DTSTAMP;VALUE=DATE:20240818
-UID:479477-1-693068
-CLASS:PUBLIC
-DESCRIPTION:「宛若一把剑」\n\n\n里加甸魔法学院六年级生
- ──威尔・赛尔福特，被称为「只擅长学科的书呆子」
- 。\n\n威尔连初阶魔法都无法使用，被大家藐视为学院的
- 吊车尾。 \n\n为了遵守与儿时玩伴──艾尔法莉亚的约定
- ，威尔作为魔导士，以最强称号「至高五杖」为目标，
- 但这条路却遥
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:杖与剑的魔剑谭 2
-DTSTART;VALUE=DATE:20240714
-DTSTAMP;VALUE=DATE:20240818
-UID:479477-2-693068
-CLASS:PUBLIC
-DESCRIPTION:「不屈不挠」\n\n\n里加甸魔法学院六年级生─
- ─威尔・赛尔福特，被称为「只擅长学科的书呆子」。\n
- \n威尔连初阶魔法都无法使用，被大家藐视为学院的吊车
- 尾。 \n\n为了遵守与儿时玩伴──艾尔法莉亚的约定，威
- 尔作为魔导士，以最强称号「至高五杖」为目标，但这
- 条路却遥
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:杖与剑的魔剑谭 3
-DTSTART;VALUE=DATE:20240721
-DTSTAMP;VALUE=DATE:20240818
-UID:479477-3-693068
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n里加甸魔法学院六年级生──威尔・
- 赛尔福特，被称为「只擅长学科的书呆子」。\n\n威尔连
- 初阶魔法都无法使用，被大家藐视为学院的吊车尾。 \n\n
- 为了遵守与儿时玩伴──艾尔法莉亚的约定，威尔作为
- 魔导士，以最强称号「至高五杖」为目标，但这条路却
- 遥
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:杖与剑的魔剑谭 4
-DTSTART;VALUE=DATE:20240804
-DTSTAMP;VALUE=DATE:20240818
-UID:479477-4-693068
-CLASS:PUBLIC
-DESCRIPTION:「大祭前夜」\n\n\n里加甸魔法学院六年级生─
- ─威尔・赛尔福特，被称为「只擅长学科的书呆子」。\n
- \n威尔连初阶魔法都无法使用，被大家藐视为学院的吊车
- 尾。 \n\n为了遵守与儿时玩伴──艾尔法莉亚的约定，威
- 尔作为魔导士，以最强称号「至高五杖」为目标，但这
- 条路却遥
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:杖与剑的魔剑谭 5
-DTSTART;VALUE=DATE:20240811
-DTSTAMP;VALUE=DATE:20240818
-UID:479477-5-693068
-CLASS:PUBLIC
-DESCRIPTION:「当号炮响起」\n\n\n里加甸魔法学院六年级生
- ──威尔・赛尔福特，被称为「只擅长学科的书呆子」
- 。\n\n威尔连初阶魔法都无法使用，被大家藐视为学院的
- 吊车尾。 \n\n为了遵守与儿时玩伴──艾尔法莉亚的约定
- ，威尔作为魔导士，以最强称号「至高五杖」为目标，
- 但这条路却遥
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:杖与剑的魔剑谭 6
-DTSTART;VALUE=DATE:20240818
-DTSTAMP;VALUE=DATE:20240818
-UID:479477-6-693068
-CLASS:PUBLIC
-DESCRIPTION:「矜持与热情之间」\n\n\n里加甸魔法学院六年
- 级生──威尔・赛尔福特，被称为「只擅长学科的书呆
- 子」。\n\n威尔连初阶魔法都无法使用，被大家藐视为学
- 院的吊车尾。 \n\n为了遵守与儿时玩伴──艾尔法莉亚的
- 约定，威尔作为魔导士，以最强称号「至高五杖」为目
- 标，但这条路却遥
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:杖与剑的魔剑谭 7
-DTSTART;VALUE=DATE:20240825
-DTSTAMP;VALUE=DATE:20240818
-UID:479477-7-693068
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n里加甸魔法学院六年级生──威尔・
- 赛尔福特，被称为「只擅长学科的书呆子」。\n\n威尔连
- 初阶魔法都无法使用，被大家藐视为学院的吊车尾。 \n\n
- 为了遵守与儿时玩伴──艾尔法莉亚的约定，威尔作为
- 魔导士，以最强称号「至高五杖」为目标，但这条路却
- 遥
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:杖与剑的魔剑谭 8
-DTSTART;VALUE=DATE:20240901
-DTSTAMP;VALUE=DATE:20240818
-UID:479477-8-693068
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n里加甸魔法学院六年级生──威尔・
- 赛尔福特，被称为「只擅长学科的书呆子」。\n\n威尔连
- 初阶魔法都无法使用，被大家藐视为学院的吊车尾。 \n\n
- 为了遵守与儿时玩伴──艾尔法莉亚的约定，威尔作为
- 魔导士，以最强称号「至高五杖」为目标，但这条路却
- 遥
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:杖与剑的魔剑谭 9
-DTSTART;VALUE=DATE:20240908
-DTSTAMP;VALUE=DATE:20240818
-UID:479477-9-693068
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n里加甸魔法学院六年级生──威尔・
- 赛尔福特，被称为「只擅长学科的书呆子」。\n\n威尔连
- 初阶魔法都无法使用，被大家藐视为学院的吊车尾。 \n\n
- 为了遵守与儿时玩伴──艾尔法莉亚的约定，威尔作为
- 魔导士，以最强称号「至高五杖」为目标，但这条路却
- 遥
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:杖与剑的魔剑谭 10
-DTSTART;VALUE=DATE:20240915
-DTSTAMP;VALUE=DATE:20240818
-UID:479477-10-693068
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n里加甸魔法学院六年级生──威尔・
- 赛尔福特，被称为「只擅长学科的书呆子」。\n\n威尔连
- 初阶魔法都无法使用，被大家藐视为学院的吊车尾。 \n\n
- 为了遵守与儿时玩伴──艾尔法莉亚的约定，威尔作为
- 魔导士，以最强称号「至高五杖」为目标，但这条路却
- 遥
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:杖与剑的魔剑谭 11
-DTSTART;VALUE=DATE:20240922
-DTSTAMP;VALUE=DATE:20240818
-UID:479477-11-693068
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n里加甸魔法学院六年级生──威尔・
- 赛尔福特，被称为「只擅长学科的书呆子」。\n\n威尔连
- 初阶魔法都无法使用，被大家藐视为学院的吊车尾。 \n\n
- 为了遵守与儿时玩伴──艾尔法莉亚的约定，威尔作为
- 魔导士，以最强称号「至高五杖」为目标，但这条路却
- 遥
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:杖与剑的魔剑谭 12
-DTSTART;VALUE=DATE:20240929
-DTSTAMP;VALUE=DATE:20240818
-UID:479477-12-693068
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n里加甸魔法学院六年级生──威尔・
- 赛尔福特，被称为「只擅长学科的书呆子」。\n\n威尔连
- 初阶魔法都无法使用，被大家藐视为学院的吊车尾。 \n\n
- 为了遵守与儿时玩伴──艾尔法莉亚的约定，威尔作为
- 魔导士，以最强称号「至高五杖」为目标，但这条路却
- 遥
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
