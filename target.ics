@@ -5,340 +5,182 @@ X-APPLE-CALENDAR-COLOR:#F699C
 X-WR-CALNAME:新番日历
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-SUMMARY:缘结甘神家 1
-DTSTART;VALUE=DATE:20241001
+SUMMARY:杖与剑的魔剑谭 1
+DTSTART;VALUE=DATE:20240707
 DTSTAMP;VALUE=DATE:20241002
-UID:431370-1-693068
+UID:479477-1-693068
 CLASS:PUBLIC
-DESCRIPTION:「奇迹的开始」\n\n\n以京大医学部为目标的高
- 中生上终瓜生。\n在儿童福利院长大的瓜生，被位于京都
- 的神社“甘神神社”的宫司收养，寄居于此。\n在那里等
- 待着他的，是和夜重、夕奈、朝姬巫女三姐妹的同居生
- 活！\n而且寄居的条件是“作为女婿继承神社”？！\n和
- 三姐妹相亲，
+DESCRIPTION:「宛若一把剑」\n\n\n里加甸魔法学院六年级生
+ ──威尔・赛尔福特，被称为「只擅长学科的书呆子」
+ 。\n\n威尔连初阶魔法都无法使用，被大家藐视为学院的
+ 吊车尾。 \n\n为了遵守与儿时玩伴──艾尔法莉亚的约定
+ ，威尔作为魔导士，以最强称号「至高五杖」为目标，
+ 但这条路却遥
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:缘结甘神家 2
-DTSTART;VALUE=DATE:20241008
+SUMMARY:杖与剑的魔剑谭 2
+DTSTART;VALUE=DATE:20240714
 DTSTAMP;VALUE=DATE:20241002
-UID:431370-2-693068
+UID:479477-2-693068
 CLASS:PUBLIC
-DESCRIPTION:「白昼与鹤」\n\n\n以京大医学部为目标的高中
- 生上终瓜生。\n在儿童福利院长大的瓜生，被位于京都的
- 神社“甘神神社”的宫司收养，寄居于此。\n在那里等待
- 着他的，是和夜重、夕奈、朝姬巫女三姐妹的同居生活
- ！\n而且寄居的条件是“作为女婿继承神社”？！\n和三
- 姐妹相亲，
+DESCRIPTION:「不屈不挠」\n\n\n里加甸魔法学院六年级生─
+ ─威尔・赛尔福特，被称为「只擅长学科的书呆子」。\n
+ \n威尔连初阶魔法都无法使用，被大家藐视为学院的吊车
+ 尾。 \n\n为了遵守与儿时玩伴──艾尔法莉亚的约定，威
+ 尔作为魔导士，以最强称号「至高五杖」为目标，但这
+ 条路却遥
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:缘结甘神家 3
-DTSTART;VALUE=DATE:20241015
+SUMMARY:杖与剑的魔剑谭 3
+DTSTART;VALUE=DATE:20240721
 DTSTAMP;VALUE=DATE:20241002
-UID:431370-3-693068
+UID:479477-3-693068
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n以京大医学部为目标的高中生上终瓜
- 生。\n在儿童福利院长大的瓜生，被位于京都的神社“甘
- 神神社”的宫司收养，寄居于此。\n在那里等待着他的，
- 是和夜重、夕奈、朝姬巫女三姐妹的同居生活！\n而且寄
- 居的条件是“作为女婿继承神社”？！\n和三姐妹相亲，
+DESCRIPTION:「」\n\n\n里加甸魔法学院六年级生──威尔・
+ 赛尔福特，被称为「只擅长学科的书呆子」。\n\n威尔连
+ 初阶魔法都无法使用，被大家藐视为学院的吊车尾。 \n\n
+ 为了遵守与儿时玩伴──艾尔法莉亚的约定，威尔作为
+ 魔导士，以最强称号「至高五杖」为目标，但这条路却
+ 遥
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:缘结甘神家 4
-DTSTART;VALUE=DATE:20241022
+SUMMARY:杖与剑的魔剑谭 4
+DTSTART;VALUE=DATE:20240804
 DTSTAMP;VALUE=DATE:20241002
-UID:431370-4-693068
+UID:479477-4-693068
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n以京大医学部为目标的高中生上终瓜
- 生。\n在儿童福利院长大的瓜生，被位于京都的神社“甘
- 神神社”的宫司收养，寄居于此。\n在那里等待着他的，
- 是和夜重、夕奈、朝姬巫女三姐妹的同居生活！\n而且寄
- 居的条件是“作为女婿继承神社”？！\n和三姐妹相亲，
+DESCRIPTION:「大祭前夜」\n\n\n里加甸魔法学院六年级生─
+ ─威尔・赛尔福特，被称为「只擅长学科的书呆子」。\n
+ \n威尔连初阶魔法都无法使用，被大家藐视为学院的吊车
+ 尾。 \n\n为了遵守与儿时玩伴──艾尔法莉亚的约定，威
+ 尔作为魔导士，以最强称号「至高五杖」为目标，但这
+ 条路却遥
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:缘结甘神家 5
-DTSTART;VALUE=DATE:20241029
+SUMMARY:杖与剑的魔剑谭 5
+DTSTART;VALUE=DATE:20240811
 DTSTAMP;VALUE=DATE:20241002
-UID:431370-5-693068
+UID:479477-5-693068
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n以京大医学部为目标的高中生上终瓜
- 生。\n在儿童福利院长大的瓜生，被位于京都的神社“甘
- 神神社”的宫司收养，寄居于此。\n在那里等待着他的，
- 是和夜重、夕奈、朝姬巫女三姐妹的同居生活！\n而且寄
- 居的条件是“作为女婿继承神社”？！\n和三姐妹相亲，
+DESCRIPTION:「当号炮响起」\n\n\n里加甸魔法学院六年级生
+ ──威尔・赛尔福特，被称为「只擅长学科的书呆子」
+ 。\n\n威尔连初阶魔法都无法使用，被大家藐视为学院的
+ 吊车尾。 \n\n为了遵守与儿时玩伴──艾尔法莉亚的约定
+ ，威尔作为魔导士，以最强称号「至高五杖」为目标，
+ 但这条路却遥
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:缘结甘神家 6
-DTSTART;VALUE=DATE:20241105
+SUMMARY:杖与剑的魔剑谭 6
+DTSTART;VALUE=DATE:20240818
 DTSTAMP;VALUE=DATE:20241002
-UID:431370-6-693068
+UID:479477-6-693068
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n以京大医学部为目标的高中生上终瓜
- 生。\n在儿童福利院长大的瓜生，被位于京都的神社“甘
- 神神社”的宫司收养，寄居于此。\n在那里等待着他的，
- 是和夜重、夕奈、朝姬巫女三姐妹的同居生活！\n而且寄
- 居的条件是“作为女婿继承神社”？！\n和三姐妹相亲，
+DESCRIPTION:「矜持与热情之间」\n\n\n里加甸魔法学院六年
+ 级生──威尔・赛尔福特，被称为「只擅长学科的书呆
+ 子」。\n\n威尔连初阶魔法都无法使用，被大家藐视为学
+ 院的吊车尾。 \n\n为了遵守与儿时玩伴──艾尔法莉亚的
+ 约定，威尔作为魔导士，以最强称号「至高五杖」为目
+ 标，但这条路却遥
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:缘结甘神家 7
-DTSTART;VALUE=DATE:20241112
+SUMMARY:杖与剑的魔剑谭 7
+DTSTART;VALUE=DATE:20240825
 DTSTAMP;VALUE=DATE:20241002
-UID:431370-7-693068
+UID:479477-7-693068
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n以京大医学部为目标的高中生上终瓜
- 生。\n在儿童福利院长大的瓜生，被位于京都的神社“甘
- 神神社”的宫司收养，寄居于此。\n在那里等待着他的，
- 是和夜重、夕奈、朝姬巫女三姐妹的同居生活！\n而且寄
- 居的条件是“作为女婿继承神社”？！\n和三姐妹相亲，
+DESCRIPTION:「十二冰秘法」\n\n\n里加甸魔法学院六年级生
+ ──威尔・赛尔福特，被称为「只擅长学科的书呆子」
+ 。\n\n威尔连初阶魔法都无法使用，被大家藐视为学院的
+ 吊车尾。 \n\n为了遵守与儿时玩伴──艾尔法莉亚的约定
+ ，威尔作为魔导士，以最强称号「至高五杖」为目标，
+ 但这条路却遥
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:缘结甘神家 8
-DTSTART;VALUE=DATE:20241119
+SUMMARY:杖与剑的魔剑谭 8
+DTSTART;VALUE=DATE:20240901
 DTSTAMP;VALUE=DATE:20241002
-UID:431370-8-693068
+UID:479477-8-693068
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n以京大医学部为目标的高中生上终瓜
- 生。\n在儿童福利院长大的瓜生，被位于京都的神社“甘
- 神神社”的宫司收养，寄居于此。\n在那里等待着他的，
- 是和夜重、夕奈、朝姬巫女三姐妹的同居生活！\n而且寄
- 居的条件是“作为女婿继承神社”？！\n和三姐妹相亲，
+DESCRIPTION:「」\n\n\n里加甸魔法学院六年级生──威尔・
+ 赛尔福特，被称为「只擅长学科的书呆子」。\n\n威尔连
+ 初阶魔法都无法使用，被大家藐视为学院的吊车尾。 \n\n
+ 为了遵守与儿时玩伴──艾尔法莉亚的约定，威尔作为
+ 魔导士，以最强称号「至高五杖」为目标，但这条路却
+ 遥
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:缘结甘神家 9
-DTSTART;VALUE=DATE:20241126
+SUMMARY:杖与剑的魔剑谭 9
+DTSTART;VALUE=DATE:20240908
 DTSTAMP;VALUE=DATE:20241002
-UID:431370-9-693068
+UID:479477-9-693068
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n以京大医学部为目标的高中生上终瓜
- 生。\n在儿童福利院长大的瓜生，被位于京都的神社“甘
- 神神社”的宫司收养，寄居于此。\n在那里等待着他的，
- 是和夜重、夕奈、朝姬巫女三姐妹的同居生活！\n而且寄
- 居的条件是“作为女婿继承神社”？！\n和三姐妹相亲，
+DESCRIPTION:「实习开始」\n\n\n里加甸魔法学院六年级生─
+ ─威尔・赛尔福特，被称为「只擅长学科的书呆子」。\n
+ \n威尔连初阶魔法都无法使用，被大家藐视为学院的吊车
+ 尾。 \n\n为了遵守与儿时玩伴──艾尔法莉亚的约定，威
+ 尔作为魔导士，以最强称号「至高五杖」为目标，但这
+ 条路却遥
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:缘结甘神家 10
-DTSTART;VALUE=DATE:20241203
+SUMMARY:杖与剑的魔剑谭 10
+DTSTART;VALUE=DATE:20240915
 DTSTAMP;VALUE=DATE:20241002
-UID:431370-10-693068
+UID:479477-10-693068
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n以京大医学部为目标的高中生上终瓜
- 生。\n在儿童福利院长大的瓜生，被位于京都的神社“甘
- 神神社”的宫司收养，寄居于此。\n在那里等待着他的，
- 是和夜重、夕奈、朝姬巫女三姐妹的同居生活！\n而且寄
- 居的条件是“作为女婿继承神社”？！\n和三姐妹相亲，
+DESCRIPTION:「我们的梦想」\n\n\n里加甸魔法学院六年级生
+ ──威尔・赛尔福特，被称为「只擅长学科的书呆子」
+ 。\n\n威尔连初阶魔法都无法使用，被大家藐视为学院的
+ 吊车尾。 \n\n为了遵守与儿时玩伴──艾尔法莉亚的约定
+ ，威尔作为魔导士，以最强称号「至高五杖」为目标，
+ 但这条路却遥
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:缘结甘神家 11
-DTSTART;VALUE=DATE:20241210
+SUMMARY:杖与剑的魔剑谭 11
+DTSTART;VALUE=DATE:20240922
 DTSTAMP;VALUE=DATE:20241002
-UID:431370-11-693068
+UID:479477-11-693068
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n以京大医学部为目标的高中生上终瓜
- 生。\n在儿童福利院长大的瓜生，被位于京都的神社“甘
- 神神社”的宫司收养，寄居于此。\n在那里等待着他的，
- 是和夜重、夕奈、朝姬巫女三姐妹的同居生活！\n而且寄
- 居的条件是“作为女婿继承神社”？！\n和三姐妹相亲，
+DESCRIPTION:「胆小鬼的真名」\n\n\n里加甸魔法学院六年级
+ 生──威尔・赛尔福特，被称为「只擅长学科的书呆子
+ 」。\n\n威尔连初阶魔法都无法使用，被大家藐视为学院
+ 的吊车尾。 \n\n为了遵守与儿时玩伴──艾尔法莉亚的约
+ 定，威尔作为魔导士，以最强称号「至高五杖」为目标
+ ，但这条路却遥
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:缘结甘神家 12
-DTSTART;VALUE=DATE:20241217
+SUMMARY:杖与剑的魔剑谭 12
+DTSTART;VALUE=DATE:20240929
 DTSTAMP;VALUE=DATE:20241002
-UID:431370-12-693068
+UID:479477-12-693068
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n以京大医学部为目标的高中生上终瓜
- 生。\n在儿童福利院长大的瓜生，被位于京都的神社“甘
- 神神社”的宫司收养，寄居于此。\n在那里等待着他的，
- 是和夜重、夕奈、朝姬巫女三姐妹的同居生活！\n而且寄
- 居的条件是“作为女婿继承神社”？！\n和三姐妹相亲，
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:缘结甘神家 13
-DTSTART;VALUE=DATE:20241224
-DTSTAMP;VALUE=DATE:20241002
-UID:431370-13-693068
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n以京大医学部为目标的高中生上终瓜
- 生。\n在儿童福利院长大的瓜生，被位于京都的神社“甘
- 神神社”的宫司收养，寄居于此。\n在那里等待着他的，
- 是和夜重、夕奈、朝姬巫女三姐妹的同居生活！\n而且寄
- 居的条件是“作为女婿继承神社”？！\n和三姐妹相亲，
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:缘结甘神家 14
-DTSTART;VALUE=DATE:20241231
-DTSTAMP;VALUE=DATE:20241002
-UID:431370-14-693068
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n以京大医学部为目标的高中生上终瓜
- 生。\n在儿童福利院长大的瓜生，被位于京都的神社“甘
- 神神社”的宫司收养，寄居于此。\n在那里等待着他的，
- 是和夜重、夕奈、朝姬巫女三姐妹的同居生活！\n而且寄
- 居的条件是“作为女婿继承神社”？！\n和三姐妹相亲，
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:缘结甘神家 15
-DTSTART;VALUE=DATE:20250107
-DTSTAMP;VALUE=DATE:20241002
-UID:431370-15-693068
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n以京大医学部为目标的高中生上终瓜
- 生。\n在儿童福利院长大的瓜生，被位于京都的神社“甘
- 神神社”的宫司收养，寄居于此。\n在那里等待着他的，
- 是和夜重、夕奈、朝姬巫女三姐妹的同居生活！\n而且寄
- 居的条件是“作为女婿继承神社”？！\n和三姐妹相亲，
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:缘结甘神家 16
-DTSTART;VALUE=DATE:20250114
-DTSTAMP;VALUE=DATE:20241002
-UID:431370-16-693068
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n以京大医学部为目标的高中生上终瓜
- 生。\n在儿童福利院长大的瓜生，被位于京都的神社“甘
- 神神社”的宫司收养，寄居于此。\n在那里等待着他的，
- 是和夜重、夕奈、朝姬巫女三姐妹的同居生活！\n而且寄
- 居的条件是“作为女婿继承神社”？！\n和三姐妹相亲，
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:缘结甘神家 17
-DTSTART;VALUE=DATE:20250121
-DTSTAMP;VALUE=DATE:20241002
-UID:431370-17-693068
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n以京大医学部为目标的高中生上终瓜
- 生。\n在儿童福利院长大的瓜生，被位于京都的神社“甘
- 神神社”的宫司收养，寄居于此。\n在那里等待着他的，
- 是和夜重、夕奈、朝姬巫女三姐妹的同居生活！\n而且寄
- 居的条件是“作为女婿继承神社”？！\n和三姐妹相亲，
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:缘结甘神家 18
-DTSTART;VALUE=DATE:20250128
-DTSTAMP;VALUE=DATE:20241002
-UID:431370-18-693068
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n以京大医学部为目标的高中生上终瓜
- 生。\n在儿童福利院长大的瓜生，被位于京都的神社“甘
- 神神社”的宫司收养，寄居于此。\n在那里等待着他的，
- 是和夜重、夕奈、朝姬巫女三姐妹的同居生活！\n而且寄
- 居的条件是“作为女婿继承神社”？！\n和三姐妹相亲，
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:缘结甘神家 19
-DTSTART;VALUE=DATE:20250204
-DTSTAMP;VALUE=DATE:20241002
-UID:431370-19-693068
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n以京大医学部为目标的高中生上终瓜
- 生。\n在儿童福利院长大的瓜生，被位于京都的神社“甘
- 神神社”的宫司收养，寄居于此。\n在那里等待着他的，
- 是和夜重、夕奈、朝姬巫女三姐妹的同居生活！\n而且寄
- 居的条件是“作为女婿继承神社”？！\n和三姐妹相亲，
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:缘结甘神家 20
-DTSTART;VALUE=DATE:20250211
-DTSTAMP;VALUE=DATE:20241002
-UID:431370-20-693068
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n以京大医学部为目标的高中生上终瓜
- 生。\n在儿童福利院长大的瓜生，被位于京都的神社“甘
- 神神社”的宫司收养，寄居于此。\n在那里等待着他的，
- 是和夜重、夕奈、朝姬巫女三姐妹的同居生活！\n而且寄
- 居的条件是“作为女婿继承神社”？！\n和三姐妹相亲，
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:缘结甘神家 21
-DTSTART;VALUE=DATE:20250218
-DTSTAMP;VALUE=DATE:20241002
-UID:431370-21-693068
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n以京大医学部为目标的高中生上终瓜
- 生。\n在儿童福利院长大的瓜生，被位于京都的神社“甘
- 神神社”的宫司收养，寄居于此。\n在那里等待着他的，
- 是和夜重、夕奈、朝姬巫女三姐妹的同居生活！\n而且寄
- 居的条件是“作为女婿继承神社”？！\n和三姐妹相亲，
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:缘结甘神家 22
-DTSTART;VALUE=DATE:20250225
-DTSTAMP;VALUE=DATE:20241002
-UID:431370-22-693068
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n以京大医学部为目标的高中生上终瓜
- 生。\n在儿童福利院长大的瓜生，被位于京都的神社“甘
- 神神社”的宫司收养，寄居于此。\n在那里等待着他的，
- 是和夜重、夕奈、朝姬巫女三姐妹的同居生活！\n而且寄
- 居的条件是“作为女婿继承神社”？！\n和三姐妹相亲，
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:缘结甘神家 23
-DTSTART;VALUE=DATE:20250304
-DTSTAMP;VALUE=DATE:20241002
-UID:431370-23-693068
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n以京大医学部为目标的高中生上终瓜
- 生。\n在儿童福利院长大的瓜生，被位于京都的神社“甘
- 神神社”的宫司收养，寄居于此。\n在那里等待着他的，
- 是和夜重、夕奈、朝姬巫女三姐妹的同居生活！\n而且寄
- 居的条件是“作为女婿继承神社”？！\n和三姐妹相亲，
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:缘结甘神家 24
-DTSTART;VALUE=DATE:20250311
-DTSTAMP;VALUE=DATE:20241002
-UID:431370-24-693068
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n以京大医学部为目标的高中生上终瓜
- 生。\n在儿童福利院长大的瓜生，被位于京都的神社“甘
- 神神社”的宫司收养，寄居于此。\n在那里等待着他的，
- 是和夜重、夕奈、朝姬巫女三姐妹的同居生活！\n而且寄
- 居的条件是“作为女婿继承神社”？！\n和三姐妹相亲，
+DESCRIPTION:「杖与剑」\n\n\n里加甸魔法学院六年级生──
+ 威尔・赛尔福特，被称为「只擅长学科的书呆子」。\n\n
+ 威尔连初阶魔法都无法使用，被大家藐视为学院的吊车
+ 尾。 \n\n为了遵守与儿时玩伴──艾尔法莉亚的约定，威
+ 尔作为魔导士，以最强称号「至高五杖」为目标，但这
+ 条路却遥
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1029,186 +871,6 @@ DESCRIPTION:「」\n\n\n《今天的五年二班》是一連串發生在
  刊Young Magazine》的別冊內。故事以小時作單元，對應於日
  本一般學校一小時一個教節，內容主要是圍繞正處於青
  春期的高小男生女生之間的故事描述，以及他們各
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:杖与剑的魔剑谭 1
-DTSTART;VALUE=DATE:20240707
-DTSTAMP;VALUE=DATE:20241002
-UID:479477-1-693068
-CLASS:PUBLIC
-DESCRIPTION:「宛若一把剑」\n\n\n里加甸魔法学院六年级生
- ──威尔・赛尔福特，被称为「只擅长学科的书呆子」
- 。\n\n威尔连初阶魔法都无法使用，被大家藐视为学院的
- 吊车尾。 \n\n为了遵守与儿时玩伴──艾尔法莉亚的约定
- ，威尔作为魔导士，以最强称号「至高五杖」为目标，
- 但这条路却遥
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:杖与剑的魔剑谭 2
-DTSTART;VALUE=DATE:20240714
-DTSTAMP;VALUE=DATE:20241002
-UID:479477-2-693068
-CLASS:PUBLIC
-DESCRIPTION:「不屈不挠」\n\n\n里加甸魔法学院六年级生─
- ─威尔・赛尔福特，被称为「只擅长学科的书呆子」。\n
- \n威尔连初阶魔法都无法使用，被大家藐视为学院的吊车
- 尾。 \n\n为了遵守与儿时玩伴──艾尔法莉亚的约定，威
- 尔作为魔导士，以最强称号「至高五杖」为目标，但这
- 条路却遥
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:杖与剑的魔剑谭 3
-DTSTART;VALUE=DATE:20240721
-DTSTAMP;VALUE=DATE:20241002
-UID:479477-3-693068
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n里加甸魔法学院六年级生──威尔・
- 赛尔福特，被称为「只擅长学科的书呆子」。\n\n威尔连
- 初阶魔法都无法使用，被大家藐视为学院的吊车尾。 \n\n
- 为了遵守与儿时玩伴──艾尔法莉亚的约定，威尔作为
- 魔导士，以最强称号「至高五杖」为目标，但这条路却
- 遥
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:杖与剑的魔剑谭 4
-DTSTART;VALUE=DATE:20240804
-DTSTAMP;VALUE=DATE:20241002
-UID:479477-4-693068
-CLASS:PUBLIC
-DESCRIPTION:「大祭前夜」\n\n\n里加甸魔法学院六年级生─
- ─威尔・赛尔福特，被称为「只擅长学科的书呆子」。\n
- \n威尔连初阶魔法都无法使用，被大家藐视为学院的吊车
- 尾。 \n\n为了遵守与儿时玩伴──艾尔法莉亚的约定，威
- 尔作为魔导士，以最强称号「至高五杖」为目标，但这
- 条路却遥
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:杖与剑的魔剑谭 5
-DTSTART;VALUE=DATE:20240811
-DTSTAMP;VALUE=DATE:20241002
-UID:479477-5-693068
-CLASS:PUBLIC
-DESCRIPTION:「当号炮响起」\n\n\n里加甸魔法学院六年级生
- ──威尔・赛尔福特，被称为「只擅长学科的书呆子」
- 。\n\n威尔连初阶魔法都无法使用，被大家藐视为学院的
- 吊车尾。 \n\n为了遵守与儿时玩伴──艾尔法莉亚的约定
- ，威尔作为魔导士，以最强称号「至高五杖」为目标，
- 但这条路却遥
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:杖与剑的魔剑谭 6
-DTSTART;VALUE=DATE:20240818
-DTSTAMP;VALUE=DATE:20241002
-UID:479477-6-693068
-CLASS:PUBLIC
-DESCRIPTION:「矜持与热情之间」\n\n\n里加甸魔法学院六年
- 级生──威尔・赛尔福特，被称为「只擅长学科的书呆
- 子」。\n\n威尔连初阶魔法都无法使用，被大家藐视为学
- 院的吊车尾。 \n\n为了遵守与儿时玩伴──艾尔法莉亚的
- 约定，威尔作为魔导士，以最强称号「至高五杖」为目
- 标，但这条路却遥
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:杖与剑的魔剑谭 7
-DTSTART;VALUE=DATE:20240825
-DTSTAMP;VALUE=DATE:20241002
-UID:479477-7-693068
-CLASS:PUBLIC
-DESCRIPTION:「十二冰秘法」\n\n\n里加甸魔法学院六年级生
- ──威尔・赛尔福特，被称为「只擅长学科的书呆子」
- 。\n\n威尔连初阶魔法都无法使用，被大家藐视为学院的
- 吊车尾。 \n\n为了遵守与儿时玩伴──艾尔法莉亚的约定
- ，威尔作为魔导士，以最强称号「至高五杖」为目标，
- 但这条路却遥
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:杖与剑的魔剑谭 8
-DTSTART;VALUE=DATE:20240901
-DTSTAMP;VALUE=DATE:20241002
-UID:479477-8-693068
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n里加甸魔法学院六年级生──威尔・
- 赛尔福特，被称为「只擅长学科的书呆子」。\n\n威尔连
- 初阶魔法都无法使用，被大家藐视为学院的吊车尾。 \n\n
- 为了遵守与儿时玩伴──艾尔法莉亚的约定，威尔作为
- 魔导士，以最强称号「至高五杖」为目标，但这条路却
- 遥
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:杖与剑的魔剑谭 9
-DTSTART;VALUE=DATE:20240908
-DTSTAMP;VALUE=DATE:20241002
-UID:479477-9-693068
-CLASS:PUBLIC
-DESCRIPTION:「实习开始」\n\n\n里加甸魔法学院六年级生─
- ─威尔・赛尔福特，被称为「只擅长学科的书呆子」。\n
- \n威尔连初阶魔法都无法使用，被大家藐视为学院的吊车
- 尾。 \n\n为了遵守与儿时玩伴──艾尔法莉亚的约定，威
- 尔作为魔导士，以最强称号「至高五杖」为目标，但这
- 条路却遥
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:杖与剑的魔剑谭 10
-DTSTART;VALUE=DATE:20240915
-DTSTAMP;VALUE=DATE:20241002
-UID:479477-10-693068
-CLASS:PUBLIC
-DESCRIPTION:「我们的梦想」\n\n\n里加甸魔法学院六年级生
- ──威尔・赛尔福特，被称为「只擅长学科的书呆子」
- 。\n\n威尔连初阶魔法都无法使用，被大家藐视为学院的
- 吊车尾。 \n\n为了遵守与儿时玩伴──艾尔法莉亚的约定
- ，威尔作为魔导士，以最强称号「至高五杖」为目标，
- 但这条路却遥
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:杖与剑的魔剑谭 11
-DTSTART;VALUE=DATE:20240922
-DTSTAMP;VALUE=DATE:20241002
-UID:479477-11-693068
-CLASS:PUBLIC
-DESCRIPTION:「胆小鬼的真名」\n\n\n里加甸魔法学院六年级
- 生──威尔・赛尔福特，被称为「只擅长学科的书呆子
- 」。\n\n威尔连初阶魔法都无法使用，被大家藐视为学院
- 的吊车尾。 \n\n为了遵守与儿时玩伴──艾尔法莉亚的约
- 定，威尔作为魔导士，以最强称号「至高五杖」为目标
- ，但这条路却遥
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:杖与剑的魔剑谭 12
-DTSTART;VALUE=DATE:20240929
-DTSTAMP;VALUE=DATE:20241002
-UID:479477-12-693068
-CLASS:PUBLIC
-DESCRIPTION:「杖与剑」\n\n\n里加甸魔法学院六年级生──
- 威尔・赛尔福特，被称为「只擅长学科的书呆子」。\n\n
- 威尔连初阶魔法都无法使用，被大家藐视为学院的吊车
- 尾。 \n\n为了遵守与儿时玩伴──艾尔法莉亚的约定，威
- 尔作为魔导士，以最强称号「至高五杖」为目标，但这
- 条路却遥
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
