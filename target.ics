@@ -5,6 +5,21 @@ X-APPLE-CALENDAR-COLOR:#F699C
 X-WR-CALNAME:新番日历
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
+SUMMARY:蓦然回首 1
+DTSTART;VALUE=DATE:20240628
+DTSTAMP;VALUE=DATE:20241107
+UID:480441-1-693068
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n学生新聞で４コマ漫画を連載してい
+ る小学４年生の藤野。クラスメートからは絶賛を受け
+ ていたが、ある日、不登校の同級生・京本の４コマを
+ 載せたいと先生から告げられる…。二人の少女をつな
+ いだのは、漫画へのひたむきな思い。しかしある日、
+ すべてを打ち砕く
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:奇诺之旅 1
 DTSTART;VALUE=DATE:20030408
 DTSTAMP;VALUE=DATE:20241107
@@ -2779,12 +2794,12 @@ DTSTART;VALUE=DATE:20241107
 DTSTAMP;VALUE=DATE:20241107
 UID:505895-6-693068
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n大学生佐佐木常宏身背巨额债务，又
- 被医生告知之余两年寿命。\n他终日郁郁寡欢，在一次被
- 催债人追逐中失足坠海，幸而被热爱垂钓的少女花以及
- 钓友贵明救助。\n在花的劝说下，常宏开始了人生中第一
- 次垂钓，与其他钓友也逐渐熟悉，并开始在花以及贵明
- 工作的便
+DESCRIPTION:「泰爱鲷」\n\n\n大学生佐佐木常宏身背巨额债
+ 务，又被医生告知之余两年寿命。\n他终日郁郁寡欢，在
+ 一次被催债人追逐中失足坠海，幸而被热爱垂钓的少女
+ 花以及钓友贵明救助。\n在花的劝说下，常宏开始了人生
+ 中第一次垂钓，与其他钓友也逐渐熟悉，并开始在花以
+ 及贵明工作的便
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
