@@ -16,8 +16,13 @@ def genDec(summary, epname) -> str:
     str(epname).replace("/n","\n")
     return "「"+epname+"」" + "\n" + "\n"+ "\n"+ summary
 
-
-def genDate(time) -> date:
+def genDate(time: str) -> date:
     formats = ["%Y-%m-%d", "%Y年%m月%d日"]
-    date = datetime.strptime(time, format)
-    return date.date()
+    for fmt in formats:
+        try:
+            parsed_date = datetime.strptime(time, fmt)
+            return parsed_date.date()
+        except ValueError:
+            continue
+    raise ValueError(f"time data '{time}' does not match any supported format")
+
