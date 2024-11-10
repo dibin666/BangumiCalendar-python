@@ -18,6 +18,6 @@ def genDec(summary, epname) -> str:
 
 
 def genDate(time) -> date:
-    format = "%Y-%m-%d"
+    formats = ["%Y-%m-%d", "%Y年%m月%d日"]
     date = datetime.strptime(time, format)
     return date.date()
