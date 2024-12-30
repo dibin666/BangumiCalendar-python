@@ -5,197 +5,182 @@ X-APPLE-CALENDAR-COLOR:#F699C
 X-WR-CALNAME:新番日历
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-SUMMARY:向山进发 第三季 1
-DTSTART;VALUE=DATE:20180702
+SUMMARY:向山进发 Next Summit 1
+DTSTART;VALUE=DATE:20221004
 DTSTAMP;VALUE=DATE:20241230
-UID:216310-1-693068
+UID:290980-1-693068
 CLASS:PUBLIC
-DESCRIPTION:「筑波山上的初次约会！？」\n\n\nインドア趣
- 味で高所恐怖症のあおいは、高校入学を機に再会した
- 幼なじみのひなたに振り回されながらも、登山やアウ
- トドア活動を経験。あおいはだんだんと登山の楽しさ
- に目覚めていった。\nそして彼女たちの季節は夏から秋
- に――。登山をきっかけに増えたとも
+DESCRIPTION:「向山进发前传／第一季春」\n\n\n继登上了标
+ 高197m的天览山后，葵和日向二人又登上了599m的高尾山、
+ 1786m的三峠山，不断创下新高。而后她们也登顶了那座回
+ 忆中的山——谷川岳。在周游关东名峰的过程中结识了
+ 可可奈、枫以及穗香等人，她们的户外活动也由此变得
+ 多姿多彩。而在丰富
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:向山进发 第三季 2
-DTSTART;VALUE=DATE:20180709
+SUMMARY:向山进发 Next Summit 2
+DTSTART;VALUE=DATE:20221011
 DTSTAMP;VALUE=DATE:20241230
-UID:216310-2-693068
+UID:290980-2-693068
 CLASS:PUBLIC
-DESCRIPTION:「登山靴很厉害的吗？」\n\n\nインドア趣味で
- 高所恐怖症のあおいは、高校入学を機に再会した幼な
- じみのひなたに振り回されながらも、登山やアウトド
- ア活動を経験。あおいはだんだんと登山の楽しさに目
- 覚めていった。\nそして彼女たちの季節は夏から秋に―
- ―。登山をきっかけに増えたとも
+DESCRIPTION:「奔跑吧！登山女孩／第二季夏 前篇」\n\n\n继
+ 登上了标高197m的天览山后，葵和日向二人又登上了599m的
+ 高尾山、1786m的三峠山，不断创下新高。而后她们也登顶
+ 了那座回忆中的山——谷川岳。在周游关东名峰的过程
+ 中结识了可可奈、枫以及穗香等人，她们的户外活动也
+ 由此变得多姿多彩。而在丰富
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:向山进发 第三季 3
-DTSTART;VALUE=DATE:20180716
+SUMMARY:向山进发 Next Summit 3
+DTSTART;VALUE=DATE:20221018
 DTSTAMP;VALUE=DATE:20241230
-UID:216310-3-693068
+UID:290980-3-693068
 CLASS:PUBLIC
-DESCRIPTION:「饭能的阿尔卑斯！？」\n\n\nインドア趣味で
- 高所恐怖症のあおいは、高校入学を機に再会した幼な
- じみのひなたに振り回されながらも、登山やアウトド
- ア活動を経験。あおいはだんだんと登山の楽しさに目
- 覚めていった。\nそして彼女たちの季節は夏から秋に―
- ―。登山をきっかけに増えたとも
+DESCRIPTION:「在都内爬山！？／第二季夏 后篇」\n\n\n继登
+ 上了标高197m的天览山后，葵和日向二人又登上了599m的高
+ 尾山、1786m的三峠山，不断创下新高。而后她们也登顶了
+ 那座回忆中的山——谷川岳。在周游关东名峰的过程中
+ 结识了可可奈、枫以及穗香等人，她们的户外活动也由
+ 此变得多姿多彩。而在丰富
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:向山进发 第三季 4
-DTSTART;VALUE=DATE:20180723
+SUMMARY:向山进发 Next Summit 4
+DTSTART;VALUE=DATE:20221025
 DTSTAMP;VALUE=DATE:20241230
-UID:216310-4-693068
+UID:290980-4-693068
 CLASS:PUBLIC
-DESCRIPTION:「和同学一起去玩吧！」\n\n\nインドア趣味で
- 高所恐怖症のあおいは、高校入学を機に再会した幼な
- じみのひなたに振り回されながらも、登山やアウトド
- ア活動を経験。あおいはだんだんと登山の楽しさに目
- 覚めていった。\nそして彼女たちの季節は夏から秋に―
- ―。登山をきっかけに増えたとも
+DESCRIPTION:「梦里都见到了吗？富士◯◯／第三季秋」\n\n\
+ n继登上了标高197m的天览山后，葵和日向二人又登上了599
+ m的高尾山、1786m的三峠山，不断创下新高。而后她们也
+ 登顶了那座回忆中的山——谷川岳。在周游关东名峰的
+ 过程中结识了可可奈、枫以及穗香等人，她们的户外活
+ 动也由此变得多姿多彩。而在丰富
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:向山进发 第三季 5
-DTSTART;VALUE=DATE:20180730
+SUMMARY:向山进发 Next Summit 5
+DTSTART;VALUE=DATE:20221101
 DTSTAMP;VALUE=DATE:20241230
-UID:216310-5-693068
+UID:290980-5-693068
 CLASS:PUBLIC
-DESCRIPTION:「拍下回忆吧！」\n\n\nインドア趣味で高所恐
- 怖症のあおいは、高校入学を機に再会した幼なじみの
- ひなたに振り回されながらも、登山やアウトドア活動
- を経験。あおいはだんだんと登山の楽しさに目覚めて
- いった。\nそして彼女たちの季節は夏から秋に――。登
- 山をきっかけに増えたとも
+DESCRIPTION:「来自登山社的挑战！？／在武甲山实施爱的
+ 鞭策？」\n\n\n继登上了标高197m的天览山后，葵和日向二
+ 人又登上了599m的高尾山、1786m的三峠山，不断创下新高
+ 。而后她们也登顶了那座回忆中的山——谷川岳。在周
+ 游关东名峰的过程中结识了可可奈、枫以及穗香等人，
+ 她们的户外活动也由此变得多姿多彩。而在丰富
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:向山进发 第三季 6
-DTSTART;VALUE=DATE:20180806
+SUMMARY:向山进发 Next Summit 6
+DTSTART;VALUE=DATE:20221108
 DTSTAMP;VALUE=DATE:20241230
-UID:216310-6-693068
+UID:290980-6-693068
 CLASS:PUBLIC
-DESCRIPTION:「咖啡是什么味的？」\n\n\nインドア趣味で高
- 所恐怖症のあおいは、高校入学を機に再会した幼なじ
- みのひなたに振り回されながらも、登山やアウトドア
- 活動を経験。あおいはだんだんと登山の楽しさに目覚
- めていった。\nそして彼女たちの季節は夏から秋に――
- 。登山をきっかけに増えたとも
+DESCRIPTION:「光的约会大作战！／大家一起过白色圣诞节
+ ！」\n\n\n继登上了标高197m的天览山后，葵和日向二人又
+ 登上了599m的高尾山、1786m的三峠山，不断创下新高。而
+ 后她们也登顶了那座回忆中的山——谷川岳。在周游关
+ 东名峰的过程中结识了可可奈、枫以及穗香等人，她们
+ 的户外活动也由此变得多姿多彩。而在丰富
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:向山进发 第三季 7
-DTSTART;VALUE=DATE:20180813
+SUMMARY:向山进发 Next Summit 7
+DTSTART;VALUE=DATE:20221115
 DTSTAMP;VALUE=DATE:20241230
-UID:216310-7-693068
+UID:290980-7-693068
 CLASS:PUBLIC
-DESCRIPTION:「不工作就没法去登山！？」\n\n\nインドア趣
- 味で高所恐怖症のあおいは、高校入学を機に再会した
- 幼なじみのひなたに振り回されながらも、登山やアウ
- トドア活動を経験。あおいはだんだんと登山の楽しさ
- に目覚めていった。\nそして彼女たちの季節は夏から秋
- に――。登山をきっかけに増えたとも
+DESCRIPTION:「元旦日出，去哪里看？／跟同学一起登山！
+ 」\n\n\n继登上了标高197m的天览山后，葵和日向二人又登
+ 上了599m的高尾山、1786m的三峠山，不断创下新高。而后
+ 她们也登顶了那座回忆中的山——谷川岳。在周游关东
+ 名峰的过程中结识了可可奈、枫以及穗香等人，她们的
+ 户外活动也由此变得多姿多彩。而在丰富
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:向山进发 第三季 8
-DTSTART;VALUE=DATE:20180820
+SUMMARY:向山进发 Next Summit 8
+DTSTART;VALUE=DATE:20221122
 DTSTAMP;VALUE=DATE:20241230
-UID:216310-8-693068
+UID:290980-8-693068
 CLASS:PUBLIC
-DESCRIPTION:「两个约定」\n\n\nインドア趣味で高所恐怖症
- のあおいは、高校入学を機に再会した幼なじみのひな
- たに振り回されながらも、登山やアウトドア活動を経
- 験。あおいはだんだんと登山の楽しさに目覚めていっ
- た。\nそして彼女たちの季節は夏から秋に――。登山を
- きっかけに増えたとも
+DESCRIPTION:「在灵力圣地过情人节？／挑战雪鞋！」\n\n\n
+ 继登上了标高197m的天览山后，葵和日向二人又登上了599m
+ 的高尾山、1786m的三峠山，不断创下新高。而后她们也登
+ 顶了那座回忆中的山——谷川岳。在周游关东名峰的过
+ 程中结识了可可奈、枫以及穗香等人，她们的户外活动
+ 也由此变得多姿多彩。而在丰富
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:向山进发 第三季 9
-DTSTART;VALUE=DATE:20180827
+SUMMARY:向山进发 Next Summit 9
+DTSTART;VALUE=DATE:20221129
 DTSTAMP;VALUE=DATE:20241230
-UID:216310-9-693068
+UID:290980-9-693068
 CLASS:PUBLIC
-DESCRIPTION:「各自的景色」\n\n\nインドア趣味で高所恐怖
- 症のあおいは、高校入学を機に再会した幼なじみのひ
- なたに振り回されながらも、登山やアウトドア活動を
- 経験。あおいはだんだんと登山の楽しさに目覚めてい
- った。\nそして彼女たちの季節は夏から秋に――。登山
- をきっかけに増えたとも
+DESCRIPTION:「溪钓，相当于人生？／跟日向家一起，向镰
+ 仓进发！」\n\n\n继登上了标高197m的天览山后，葵和日向
+ 二人又登上了599m的高尾山、1786m的三峠山，不断创下新
+ 高。而后她们也登顶了那座回忆中的山——谷川岳。在
+ 周游关东名峰的过程中结识了可可奈、枫以及穗香等人
+ ，她们的户外活动也由此变得多姿多彩。而在丰富
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:向山进发 第三季 10
-DTSTART;VALUE=DATE:20180903
+SUMMARY:向山进发 Next Summit 10
+DTSTART;VALUE=DATE:20221206
 DTSTAMP;VALUE=DATE:20241230
-UID:216310-10-693068
+UID:290980-10-693068
 CLASS:PUBLIC
-DESCRIPTION:「错过的季节」\n\n\nインドア趣味で高所恐怖
- 症のあおいは、高校入学を機に再会した幼なじみのひ
- なたに振り回されながらも、登山やアウトドア活動を
- 経験。あおいはだんだんと登山の楽しさに目覚めてい
- った。\nそして彼女たちの季節は夏から秋に――。登山
- をきっかけに増えたとも
+DESCRIPTION:「新的季节」\n\n\n继登上了标高197m的天览山后
+ ，葵和日向二人又登上了599m的高尾山、1786m的三峠山，
+ 不断创下新高。而后她们也登顶了那座回忆中的山——
+ 谷川岳。在周游关东名峰的过程中结识了可可奈、枫以
+ 及穗香等人，她们的户外活动也由此变得多姿多彩。而
+ 在丰富
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:向山进发 第三季 11
-DTSTART;VALUE=DATE:20180910
+SUMMARY:向山进发 Next Summit 11
+DTSTART;VALUE=DATE:20221213
 DTSTAMP;VALUE=DATE:20241230
-UID:216310-11-693068
+UID:290980-11-693068
 CLASS:PUBLIC
-DESCRIPTION:「生硬的纵走」\n\n\nインドア趣味で高所恐怖
- 症のあおいは、高校入学を機に再会した幼なじみのひ
- なたに振り回されながらも、登山やアウトドア活動を
- 経験。あおいはだんだんと登山の楽しさに目覚めてい
- った。\nそして彼女たちの季節は夏から秋に――。登山
- をきっかけに増えたとも
+DESCRIPTION:「又见面了呢！富士山」\n\n\n继登上了标高197m
+ 的天览山后，葵和日向二人又登上了599m的高尾山、1786m
+ 的三峠山，不断创下新高。而后她们也登顶了那座回忆
+ 中的山——谷川岳。在周游关东名峰的过程中结识了可
+ 可奈、枫以及穗香等人，她们的户外活动也由此变得多
+ 姿多彩。而在丰富
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:向山进发 第三季 12
-DTSTART;VALUE=DATE:20180917
+SUMMARY:向山进发 Next Summit 12
+DTSTART;VALUE=DATE:20221220
 DTSTAMP;VALUE=DATE:20241230
-UID:216310-12-693068
+UID:290980-12-693068
 CLASS:PUBLIC
-DESCRIPTION:「朋友」\n\n\nインドア趣味で高所恐怖症のあ
- おいは、高校入学を機に再会した幼なじみのひなたに
- 振り回されながらも、登山やアウトドア活動を経験。
- あおいはだんだんと登山の楽しさに目覚めていった。\n
- そして彼女たちの季節は夏から秋に――。登山をきっ
- かけに増えたとも
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:向山进发 第三季 13
-DTSTART;VALUE=DATE:20180924
-DTSTAMP;VALUE=DATE:20241230
-UID:216310-13-693068
-CLASS:PUBLIC
-DESCRIPTION:「这是秘密哦？」\n\n\nインドア趣味で高所恐
- 怖症のあおいは、高校入学を機に再会した幼なじみの
- ひなたに振り回されながらも、登山やアウトドア活動
- を経験。あおいはだんだんと登山の楽しさに目覚めて
- いった。\nそして彼女たちの季節は夏から秋に――。登
- 山をきっかけに増えたとも
+DESCRIPTION:「出发吧！攀上新的巅峰」\n\n\n继登上了标高19
+ 7m的天览山后，葵和日向二人又登上了599m的高尾山、1786m
+ 的三峠山，不断创下新高。而后她们也登顶了那座回忆
+ 中的山——谷川岳。在周游关东名峰的过程中结识了可
+ 可奈、枫以及穗香等人，她们的户外活动也由此变得多
+ 姿多彩。而在丰富
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
