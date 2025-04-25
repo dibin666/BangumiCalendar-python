@@ -5,6 +5,36 @@ X-APPLE-CALENDAR-COLOR:#F699C
 X-WR-CALNAME:新番日历
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
+SUMMARY:为美好的世界献上祝福！第三季 ーBONUS STAGEー 1
+DTSTART;VALUE=DATE:20250425
+DTSTAMP;VALUE=DATE:20250425
+UID:513089-1-693068
+CLASS:PUBLIC
+DESCRIPTION:「红流爆裂魔法」\n\n\n交通事故（!?）によりあ
+ っけなく人生の幕を閉じるはずだったゲームを愛する
+ ひきこもりの佐藤和真（カズマ）は、ひょんなことか
+ ら、女神アクアを道連れに異世界へ転生する。\n冒険者
+ 生活や勇者への憧れに胸を高鳴らせたのも束の間、転
+ 生したカズマには厄介
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:为美好的世界献上祝福！第三季 ーBONUS STAGEー 2
+DTSTART;VALUE=DATE:20250425
+DTSTAMP;VALUE=DATE:20250425
+UID:513089-2-693068
+CLASS:PUBLIC
+DESCRIPTION:「小心冒牌货」\n\n\n交通事故（!?）によりあっ
+ けなく人生の幕を閉じるはずだったゲームを愛するひ
+ きこもりの佐藤和真（カズマ）は、ひょんなことから
+ 、女神アクアを道連れに異世界へ転生する。\n冒険者生
+ 活や勇者への憧れに胸を高鳴らせたのも束の間、転生
+ したカズマには厄介
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:随兴旅-That's Journey- 1
 DTSTART;VALUE=DATE:20250407
 DTSTAMP;VALUE=DATE:20250425
@@ -9517,201 +9547,6 @@ DESCRIPTION:「圣诞节特别篇」\n\n\n文月学园的学生的学习
  应用在学园里掀起了一股新风潮。学园实行按成绩分班
  制，主人公·吉井明久自信满满地接受了考试，而迎接他
  的却是最差的班级·F班，这
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:来自深渊 1
-DTSTART;VALUE=DATE:20170707
-DTSTAMP;VALUE=DATE:20250425
-UID:203526-1-693068
-CLASS:PUBLIC
-DESCRIPTION:「巨穴之镇」\n\n\n       在每一个角落都被探索
- 完毕的世界中，唯一残留的秘境——大洞穴“深渊”。
- 不知道延续到何方，深不见底的巨大纵向洞穴，栖息着
- 各种奇妙奇怪的生物们，沉眠着现在的人类无法制造的
- 贵重遗物。“深渊”那充满了不可思议的姿态吸引了人
- 们，并驱使人们
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:来自深渊 2
-DTSTART;VALUE=DATE:20170714
-DTSTAMP;VALUE=DATE:20250425
-UID:203526-2-693068
-CLASS:PUBLIC
-DESCRIPTION:「复活祭」\n\n\n       在每一个角落都被探索完
- 毕的世界中，唯一残留的秘境——大洞穴“深渊”。不
- 知道延续到何方，深不见底的巨大纵向洞穴，栖息着各
- 种奇妙奇怪的生物们，沉眠着现在的人类无法制造的贵
- 重遗物。“深渊”那充满了不可思议的姿态吸引了人们
- ，并驱使人们
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:来自深渊 3
-DTSTART;VALUE=DATE:20170721
-DTSTAMP;VALUE=DATE:20250425
-UID:203526-3-693068
-CLASS:PUBLIC
-DESCRIPTION:「出发」\n\n\n       在每一个角落都被探索完毕
- 的世界中，唯一残留的秘境——大洞穴“深渊”。不知
- 道延续到何方，深不见底的巨大纵向洞穴，栖息着各种
- 奇妙奇怪的生物们，沉眠着现在的人类无法制造的贵重
- 遗物。“深渊”那充满了不可思议的姿态吸引了人们，
- 并驱使人们
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:来自深渊 4
-DTSTART;VALUE=DATE:20170728
-DTSTAMP;VALUE=DATE:20250425
-UID:203526-4-693068
-CLASS:PUBLIC
-DESCRIPTION:「阿比斯深渊」\n\n\n       在每一个角落都被探
- 索完毕的世界中，唯一残留的秘境——大洞穴“深渊”
- 。不知道延续到何方，深不见底的巨大纵向洞穴，栖息
- 着各种奇妙奇怪的生物们，沉眠着现在的人类无法制造
- 的贵重遗物。“深渊”那充满了不可思议的姿态吸引了
- 人们，并驱使人们
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:来自深渊 5
-DTSTART;VALUE=DATE:20170804
-DTSTAMP;VALUE=DATE:20250425
-UID:203526-5-693068
-CLASS:PUBLIC
-DESCRIPTION:「火葬炮」\n\n\n       在每一个角落都被探索完
- 毕的世界中，唯一残留的秘境——大洞穴“深渊”。不
- 知道延续到何方，深不见底的巨大纵向洞穴，栖息着各
- 种奇妙奇怪的生物们，沉眠着现在的人类无法制造的贵
- 重遗物。“深渊”那充满了不可思议的姿态吸引了人们
- ，并驱使人们
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:来自深渊 6
-DTSTART;VALUE=DATE:20170811
-DTSTAMP;VALUE=DATE:20250425
-UID:203526-6-693068
-CLASS:PUBLIC
-DESCRIPTION:「监视基地」\n\n\n       在每一个角落都被探索
- 完毕的世界中，唯一残留的秘境——大洞穴“深渊”。
- 不知道延续到何方，深不见底的巨大纵向洞穴，栖息着
- 各种奇妙奇怪的生物们，沉眠着现在的人类无法制造的
- 贵重遗物。“深渊”那充满了不可思议的姿态吸引了人
- 们，并驱使人们
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:来自深渊 7
-DTSTART;VALUE=DATE:20170818
-DTSTAMP;VALUE=DATE:20250425
-UID:203526-7-693068
-CLASS:PUBLIC
-DESCRIPTION:「不动卿」\n\n\n       在每一个角落都被探索完
- 毕的世界中，唯一残留的秘境——大洞穴“深渊”。不
- 知道延续到何方，深不见底的巨大纵向洞穴，栖息着各
- 种奇妙奇怪的生物们，沉眠着现在的人类无法制造的贵
- 重遗物。“深渊”那充满了不可思议的姿态吸引了人们
- ，并驱使人们
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:来自深渊 8
-DTSTART;VALUE=DATE:20170825
-DTSTAMP;VALUE=DATE:20250425
-UID:203526-8-693068
-CLASS:PUBLIC
-DESCRIPTION:「生存训练」\n\n\n       在每一个角落都被探索
- 完毕的世界中，唯一残留的秘境——大洞穴“深渊”。
- 不知道延续到何方，深不见底的巨大纵向洞穴，栖息着
- 各种奇妙奇怪的生物们，沉眠着现在的人类无法制造的
- 贵重遗物。“深渊”那充满了不可思议的姿态吸引了人
- 们，并驱使人们
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:来自深渊 9
-DTSTART;VALUE=DATE:20170901
-DTSTAMP;VALUE=DATE:20250425
-UID:203526-9-693068
-CLASS:PUBLIC
-DESCRIPTION:「大断层」\n\n\n       在每一个角落都被探索完
- 毕的世界中，唯一残留的秘境——大洞穴“深渊”。不
- 知道延续到何方，深不见底的巨大纵向洞穴，栖息着各
- 种奇妙奇怪的生物们，沉眠着现在的人类无法制造的贵
- 重遗物。“深渊”那充满了不可思议的姿态吸引了人们
- ，并驱使人们
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:来自深渊 10
-DTSTART;VALUE=DATE:20170908
-DTSTAMP;VALUE=DATE:20250425
-UID:203526-10-693068
-CLASS:PUBLIC
-DESCRIPTION:「毒与诅咒」\n\n\n       在每一个角落都被探索
- 完毕的世界中，唯一残留的秘境——大洞穴“深渊”。
- 不知道延续到何方，深不见底的巨大纵向洞穴，栖息着
- 各种奇妙奇怪的生物们，沉眠着现在的人类无法制造的
- 贵重遗物。“深渊”那充满了不可思议的姿态吸引了人
- 们，并驱使人们
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:来自深渊 11
-DTSTART;VALUE=DATE:20170915
-DTSTAMP;VALUE=DATE:20250425
-UID:203526-11-693068
-CLASS:PUBLIC
-DESCRIPTION:「娜娜奇」\n\n\n       在每一个角落都被探索完
- 毕的世界中，唯一残留的秘境——大洞穴“深渊”。不
- 知道延续到何方，深不见底的巨大纵向洞穴，栖息着各
- 种奇妙奇怪的生物们，沉眠着现在的人类无法制造的贵
- 重遗物。“深渊”那充满了不可思议的姿态吸引了人们
- ，并驱使人们
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:来自深渊 12
-DTSTART;VALUE=DATE:20170922
-DTSTAMP;VALUE=DATE:20250425
-UID:203526-12-693068
-CLASS:PUBLIC
-DESCRIPTION:「诅咒的真相」\n\n\n       在每一个角落都被探
- 索完毕的世界中，唯一残留的秘境——大洞穴“深渊”
- 。不知道延续到何方，深不见底的巨大纵向洞穴，栖息
- 着各种奇妙奇怪的生物们，沉眠着现在的人类无法制造
- 的贵重遗物。“深渊”那充满了不可思议的姿态吸引了
- 人们，并驱使人们
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:来自深渊 13
-DTSTART;VALUE=DATE:20170929
-DTSTAMP;VALUE=DATE:20250425
-UID:203526-13-693068
-CLASS:PUBLIC
-DESCRIPTION:「挑战者们」\n\n\n       在每一个角落都被探索
- 完毕的世界中，唯一残留的秘境——大洞穴“深渊”。
- 不知道延续到何方，深不见底的巨大纵向洞穴，栖息着
- 各种奇妙奇怪的生物们，沉眠着现在的人类无法制造的
- 贵重遗物。“深渊”那充满了不可思议的姿态吸引了人
- 们，并驱使人们
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
