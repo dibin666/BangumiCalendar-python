@@ -5,6 +5,186 @@ X-APPLE-CALENDAR-COLOR:#F699C
 X-WR-CALNAME:新番日历
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
+SUMMARY:Overtake! 1
+DTSTART;VALUE=DATE:20231001
+DTSTAMP;VALUE=DATE:20250427
+UID:416534-1-693068
+CLASS:PUBLIC
+DESCRIPTION:「驾驶赛车的男子  I don't need to be cheered on.」\n\
+ n\n「F4」、全称四级方程式。\n其为检验车手能否立足于
+ 顶尖赛事「F1」而设立的方程式赛车的入门赛事，为更高
+ 级的赛事源源不断地输送着优秀的新人车手，自设立以
+ 来，就承担着「汽车运动的甲子园」的作用。\n而一位男
+ 人，踏入了那赛道之上。\n真贺孝哉。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Overtake! 2
+DTSTART;VALUE=DATE:20231008
+DTSTAMP;VALUE=DATE:20250427
+UID:416534-2-693068
+CLASS:PUBLIC
+DESCRIPTION:「冲动和拼劲  Told ya\, roller coaster.」\n\n\n「F4」
+ 、全称四级方程式。\n其为检验车手能否立足于顶尖赛事
+ 「F1」而设立的方程式赛车的入门赛事，为更高级的赛事
+ 源源不断地输送着优秀的新人车手，自设立以来，就承
+ 担着「汽车运动的甲子园」的作用。\n而一位男人，踏入
+ 了那赛道之上。\n真贺孝哉。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Overtake! 3
+DTSTART;VALUE=DATE:20231015
+DTSTAMP;VALUE=DATE:20250427
+UID:416534-3-693068
+CLASS:PUBLIC
+DESCRIPTION:「你离颁奖台还有几公里？ Why?」\n\n\n「F4」、
+ 全称四级方程式。\n其为检验车手能否立足于顶尖赛事「
+ F1」而设立的方程式赛车的入门赛事，为更高级的赛事源
+ 源不断地输送着优秀的新人车手，自设立以来，就承担
+ 着「汽车运动的甲子园」的作用。\n而一位男人，踏入了
+ 那赛道之上。\n真贺孝哉。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Overtake! 4
+DTSTART;VALUE=DATE:20231022
+DTSTAMP;VALUE=DATE:20250427
+UID:416534-4-693068
+CLASS:PUBLIC
+DESCRIPTION:「过去与后悔 His good points? Don't ask me.」\n\n\n「F
+ 4」、全称四级方程式。\n其为检验车手能否立足于顶尖
+ 赛事「F1」而设立的方程式赛车的入门赛事，为更高级的
+ 赛事源源不断地输送着优秀的新人车手，自设立以来，
+ 就承担着「汽车运动的甲子园」的作用。\n而一位男人，
+ 踏入了那赛道之上。\n真贺孝哉。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Overtake! 5
+DTSTART;VALUE=DATE:20231029
+DTSTAMP;VALUE=DATE:20250427
+UID:416534-5-693068
+CLASS:PUBLIC
+DESCRIPTION:「火焰中的喷跑者 It's just luck.」\n\n\n「F4」、
+ 全称四级方程式。\n其为检验车手能否立足于顶尖赛事「
+ F1」而设立的方程式赛车的入门赛事，为更高级的赛事源
+ 源不断地输送着优秀的新人车手，自设立以来，就承担
+ 着「汽车运动的甲子园」的作用。\n而一位男人，踏入了
+ 那赛道之上。\n真贺孝哉。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Overtake! 6
+DTSTART;VALUE=DATE:20231105
+DTSTAMP;VALUE=DATE:20250427
+UID:416534-6-693068
+CLASS:PUBLIC
+DESCRIPTION:「铃鹿的雨 I don't want you to race.」\n\n\n「F4」、
+ 全称四级方程式。\n其为检验车手能否立足于顶尖赛事「
+ F1」而设立的方程式赛车的入门赛事，为更高级的赛事源
+ 源不断地输送着优秀的新人车手，自设立以来，就承担
+ 着「汽车运动的甲子园」的作用。\n而一位男人，踏入了
+ 那赛道之上。\n真贺孝哉。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Overtake! 7
+DTSTART;VALUE=DATE:20231112
+DTSTAMP;VALUE=DATE:20250427
+UID:416534-7-693068
+CLASS:PUBLIC
+DESCRIPTION:「曝光不足 What I really feel...」\n\n\n「F4」、全
+ 称四级方程式。\n其为检验车手能否立足于顶尖赛事「F1
+ 」而设立的方程式赛车的入门赛事，为更高级的赛事源
+ 源不断地输送着优秀的新人车手，自设立以来，就承担
+ 着「汽车运动的甲子园」的作用。\n而一位男人，踏入了
+ 那赛道之上。\n真贺孝哉。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Overtake! 8
+DTSTART;VALUE=DATE:20231119
+DTSTAMP;VALUE=DATE:20250427
+UID:416534-8-693068
+CLASS:PUBLIC
+DESCRIPTION:「一丘之貉们 Y’know what makes a fast driver？」\n\n
+ \n「F4」、全称四级方程式。\n其为检验车手能否立足于
+ 顶尖赛事「F1」而设立的方程式赛车的入门赛事，为更高
+ 级的赛事源源不断地输送着优秀的新人车手，自设立以
+ 来，就承担着「汽车运动的甲子园」的作用。\n而一位男
+ 人，踏入了那赛道之上。\n真贺孝哉。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Overtake! 9
+DTSTART;VALUE=DATE:20231126
+DTSTAMP;VALUE=DATE:20250427
+UID:416534-9-693068
+CLASS:PUBLIC
+DESCRIPTION:「灾难之日 What really happened?」\n\n\n「F4」、全
+ 称四级方程式。\n其为检验车手能否立足于顶尖赛事「F1
+ 」而设立的方程式赛车的入门赛事，为更高级的赛事源
+ 源不断地输送着优秀的新人车手，自设立以来，就承担
+ 着「汽车运动的甲子园」的作用。\n而一位男人，踏入了
+ 那赛道之上。\n真贺孝哉。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Overtake! 10
+DTSTART;VALUE=DATE:20231203
+DTSTAMP;VALUE=DATE:20250427
+UID:416534-10-693068
+CLASS:PUBLIC
+DESCRIPTION:「永不言弃 It's gonna be a long race.」\n\n\n「F4」、
+ 全称四级方程式。\n其为检验车手能否立足于顶尖赛事「
+ F1」而设立的方程式赛车的入门赛事，为更高级的赛事源
+ 源不断地输送着优秀的新人车手，自设立以来，就承担
+ 着「汽车运动的甲子园」的作用。\n而一位男人，踏入了
+ 那赛道之上。\n真贺孝哉。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Overtake! 11
+DTSTART;VALUE=DATE:20231210
+DTSTAMP;VALUE=DATE:20250427
+UID:416534-11-693068
+CLASS:PUBLIC
+DESCRIPTION:「单足跳 跨步跳 Godspeed! Psych！」\n\n\n「F4」、
+ 全称四级方程式。\n其为检验车手能否立足于顶尖赛事「
+ F1」而设立的方程式赛车的入门赛事，为更高级的赛事源
+ 源不断地输送着优秀的新人车手，自设立以来，就承担
+ 着「汽车运动的甲子园」的作用。\n而一位男人，踏入了
+ 那赛道之上。\n真贺孝哉。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Overtake! 12
+DTSTART;VALUE=DATE:20231217
+DTSTAMP;VALUE=DATE:20250427
+UID:416534-12-693068
+CLASS:PUBLIC
+DESCRIPTION:「竞速! ―Do your best ! ―」\n\n\n「F4」、全称四
+ 级方程式。\n其为检验车手能否立足于顶尖赛事「F1」而
+ 设立的方程式赛车的入门赛事，为更高级的赛事源源不
+ 断地输送着优秀的新人车手，自设立以来，就承担着「
+ 汽车运动的甲子园」的作用。\n而一位男人，踏入了那赛
+ 道之上。\n真贺孝哉。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Idol光之美少女你与我♪ 1
 DTSTART;VALUE=DATE:20250202
 DTSTAMP;VALUE=DATE:20250427
@@ -2357,11 +2537,12 @@ DTSTART;VALUE=DATE:20250426
 DTSTAMP;VALUE=DATE:20250427
 UID:485936-3-693068
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n高校の写真部員・雨宮さつきは大好
- きな部長の卒業により意気消沈していたが、\n親友でも
- う1人の部員の霧山アンからの激励により、再び部活動
- を頑張る決心をする。\n\nしかし、さつきが意気込んで
- オークションで購入した360°カメラが届かない。\n
+DESCRIPTION:「即将动画化！！地狱的弹丸圣地巡礼Stamp rally
+ ！！」\n\n\n高校の写真部員・雨宮さつきは大好きな部
+ 長の卒業により意気消沈していたが、\n親友でもう1人
+ の部員の霧山アンからの激励により、再び部活動を頑
+ 張る決心をする。\n\nしかし、さつきが意気込んでオー
+ クションで購入した360°カメラが届かない。\n
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
