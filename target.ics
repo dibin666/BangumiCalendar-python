@@ -5,17 +5,103 @@ X-APPLE-CALENDAR-COLOR:#F699C
 X-WR-CALNAME:新番日历
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
+SUMMARY:明天，美食广场见。 1
+DTSTART;VALUE=DATE:20250707
+DTSTAMP;VALUE=DATE:20250707
+UID:528438-1-693068
+CLASS:PUBLIC
+DESCRIPTION:「「和田1234」「纳斯卡线 外星人」「安剂慰」
+ 「改变吧 在你被迫改变之前」」\n\n\n話しかけ難い雰囲
+ 気を漂わせる和田と、\nギャルのような見た目で周囲か
+ ら\n恐れられている山本。\nクラスではそれぞれ一人き
+ りで過ごす和田と山本は、\n別々の高校に通っているも
+ のの、\n毎日のようにショッピングセンターの\nフード
+ コートに集ま
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:明天，美食广场见。 2
+DTSTART;VALUE=DATE:20250714
+DTSTAMP;VALUE=DATE:20250707
+UID:528438-2-693068
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n話しかけ難い雰囲気を漂わせる和田
+ と、\nギャルのような見た目で周囲から\n恐れられてい
+ る山本。\nクラスではそれぞれ一人きりで過ごす和田と
+ 山本は、\n別々の高校に通っているものの、\n毎日のよ
+ うにショッピングセンターの\nフードコートに集ま
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:明天，美食广场见。 3
+DTSTART;VALUE=DATE:20250721
+DTSTAMP;VALUE=DATE:20250707
+UID:528438-3-693068
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n話しかけ難い雰囲気を漂わせる和田
+ と、\nギャルのような見た目で周囲から\n恐れられてい
+ る山本。\nクラスではそれぞれ一人きりで過ごす和田と
+ 山本は、\n別々の高校に通っているものの、\n毎日のよ
+ うにショッピングセンターの\nフードコートに集ま
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:明天，美食广场见。 4
+DTSTART;VALUE=DATE:20250728
+DTSTAMP;VALUE=DATE:20250707
+UID:528438-4-693068
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n話しかけ難い雰囲気を漂わせる和田
+ と、\nギャルのような見た目で周囲から\n恐れられてい
+ る山本。\nクラスではそれぞれ一人きりで過ごす和田と
+ 山本は、\n別々の高校に通っているものの、\n毎日のよ
+ うにショッピングセンターの\nフードコートに集ま
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:明天，美食广场见。 5
+DTSTART;VALUE=DATE:20250804
+DTSTAMP;VALUE=DATE:20250707
+UID:528438-5-693068
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n話しかけ難い雰囲気を漂わせる和田
+ と、\nギャルのような見た目で周囲から\n恐れられてい
+ る山本。\nクラスではそれぞれ一人きりで過ごす和田と
+ 山本は、\n別々の高校に通っているものの、\n毎日のよ
+ うにショッピングセンターの\nフードコートに集ま
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:明天，美食广场见。 6
+DTSTART;VALUE=DATE:20250811
+DTSTAMP;VALUE=DATE:20250707
+UID:528438-6-693068
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n話しかけ難い雰囲気を漂わせる和田
+ と、\nギャルのような見た目で周囲から\n恐れられてい
+ る山本。\nクラスではそれぞれ一人きりで過ごす和田と
+ 山本は、\n別々の高校に通っているものの、\n毎日のよ
+ うにショッピングセンターの\nフードコートに集ま
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:小城日常 1
 DTSTART;VALUE=DATE:20250706
 DTSTAMP;VALUE=DATE:20250707
 UID:514358-1-693068
 CLASS:PUBLIC
-DESCRIPTION:「真壁家 | 朋友 | 炒脆面 | 安达太良博士 | 泉
- 和子 | 203号室」\n\n\nこの街、ただの街にあらず。\n\n笑
- いあり プププッ\nラブあり キュンキュン\nホロリあり 
- ホロリホロリ\n\n住人たちが織りなす\n予測不能な平凡
- ライフ！\n\nワクワクが連鎖する\nCITYへようこそ。\n\n\n\
- n这座城镇，绝非寻
+DESCRIPTION:「真壁家 / 朋友 / 炒脆面 / 安达太良博士 / 泉
+ 和子 / 203号室 / 梦想」\n\n\nこの街、ただの街にあらず
+ 。\n\n笑いあり プププッ\nラブあり キュンキュン\nホロ
+ リあり ホロリホロリ\n\n住人たちが織りなす\n予測不能
+ な平凡ライフ！\n\nワクワクが連鎖する\nCITYへようこそ
+ 。\n\n\n\n这座城镇，绝非寻
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -9539,201 +9625,6 @@ DESCRIPTION:「Someday in the Rain」\n\n\n“我对普通的人类没有
  天下唯我独尊超积极任性女孩凉宫春日所指挥的阿虚和SO
  S团而展开的微妙的非日常校园故事。\n或者说本作是：
  某女高中生想要和外星
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:转生成为了只有乙女游戏破灭Flag的邪恶大小姐 1
-DTSTART;VALUE=DATE:20200404
-DTSTAMP;VALUE=DATE:20250707
-UID:264089-1-693068
-CLASS:PUBLIC
-DESCRIPTION:「想起了前世的记忆…」\n\n\n公爵千金卡塔莉
- 娜·克拉艾斯在脑袋撞到石头上时取回了前世的记忆 ，
- 发现这里是前世所迷恋的乙女游戏“FORTUNE LOVER”的世界
- ，自己成为了妨碍游戏主人公恋情的邪恶大小姐！\n在游
- 戏里，克拉艾斯被准备的好的结局是流放国外，最差的
- 是被杀死。
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:转生成为了只有乙女游戏破灭Flag的邪恶大小姐 2
-DTSTART;VALUE=DATE:20200411
-DTSTAMP;VALUE=DATE:20250707
-UID:264089-2-693068
-CLASS:PUBLIC
-DESCRIPTION:「向王子发起了挑战…」\n\n\n公爵千金卡塔莉
- 娜·克拉艾斯在脑袋撞到石头上时取回了前世的记忆 ，
- 发现这里是前世所迷恋的乙女游戏“FORTUNE LOVER”的世界
- ，自己成为了妨碍游戏主人公恋情的邪恶大小姐！\n在游
- 戏里，克拉艾斯被准备的好的结局是流放国外，最差的
- 是被杀死。
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:转生成为了只有乙女游戏破灭Flag的邪恶大小姐 3
-DTSTART;VALUE=DATE:20200418
-DTSTAMP;VALUE=DATE:20250707
-UID:264089-3-693068
-CLASS:PUBLIC
-DESCRIPTION:「认识了俊美的兄妹…」\n\n\n公爵千金卡塔莉
- 娜·克拉艾斯在脑袋撞到石头上时取回了前世的记忆 ，
- 发现这里是前世所迷恋的乙女游戏“FORTUNE LOVER”的世界
- ，自己成为了妨碍游戏主人公恋情的邪恶大小姐！\n在游
- 戏里，克拉艾斯被准备的好的结局是流放国外，最差的
- 是被杀死。
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:转生成为了只有乙女游戏破灭Flag的邪恶大小姐 4
-DTSTART;VALUE=DATE:20200425
-DTSTAMP;VALUE=DATE:20250707
-UID:264089-4-693068
-CLASS:PUBLIC
-DESCRIPTION:「进入了魔法学园…」\n\n\n公爵千金卡塔莉娜·
- 克拉艾斯在脑袋撞到石头上时取回了前世的记忆 ，发现
- 这里是前世所迷恋的乙女游戏“FORTUNE LOVER”的世界，自
- 己成为了妨碍游戏主人公恋情的邪恶大小姐！\n在游戏里
- ，克拉艾斯被准备的好的结局是流放国外，最差的是被
- 杀死。
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:转生成为了只有乙女游戏破灭Flag的邪恶大小姐 5
-DTSTART;VALUE=DATE:20200502
-DTSTAMP;VALUE=DATE:20250707
-UID:264089-5-693068
-CLASS:PUBLIC
-DESCRIPTION:「拜访了主角家…」\n\n\n公爵千金卡塔莉娜·克
- 拉艾斯在脑袋撞到石头上时取回了前世的记忆 ，发现这
- 里是前世所迷恋的乙女游戏“FORTUNE LOVER”的世界，自己
- 成为了妨碍游戏主人公恋情的邪恶大小姐！\n在游戏里，
- 克拉艾斯被准备的好的结局是流放国外，最差的是被杀
- 死。
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:转生成为了只有乙女游戏破灭Flag的邪恶大小姐 6
-DTSTART;VALUE=DATE:20200509
-DTSTAMP;VALUE=DATE:20250707
-UID:264089-6-693068
-CLASS:PUBLIC
-DESCRIPTION:「暑假玩过头了…」\n\n\n公爵千金卡塔莉娜·克
- 拉艾斯在脑袋撞到石头上时取回了前世的记忆 ，发现这
- 里是前世所迷恋的乙女游戏“FORTUNE LOVER”的世界，自己
- 成为了妨碍游戏主人公恋情的邪恶大小姐！\n在游戏里，
- 克拉艾斯被准备的好的结局是流放国外，最差的是被杀
- 死。
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:转生成为了只有乙女游戏破灭Flag的邪恶大小姐 7
-DTSTART;VALUE=DATE:20200516
-DTSTAMP;VALUE=DATE:20250707
-UID:264089-7-693068
-CLASS:PUBLIC
-DESCRIPTION:「进入了一个危险的迷宫…」\n\n\n公爵千金卡
- 塔莉娜·克拉艾斯在脑袋撞到石头上时取回了前世的记忆
-  ，发现这里是前世所迷恋的乙女游戏“FORTUNE LOVER”的世
- 界，自己成为了妨碍游戏主人公恋情的邪恶大小姐！\n在
- 游戏里，克拉艾斯被准备的好的结局是流放国外，最差
- 的是被杀死。
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:转生成为了只有乙女游戏破灭Flag的邪恶大小姐 8
-DTSTART;VALUE=DATE:20200523
-DTSTAMP;VALUE=DATE:20250707
-UID:264089-8-693068
-CLASS:PUBLIC
-DESCRIPTION:「被欲望冲昏了头脑…」\n\n\n公爵千金卡塔莉
- 娜·克拉艾斯在脑袋撞到石头上时取回了前世的记忆 ，
- 发现这里是前世所迷恋的乙女游戏“FORTUNE LOVER”的世界
- ，自己成为了妨碍游戏主人公恋情的邪恶大小姐！\n在游
- 戏里，克拉艾斯被准备的好的结局是流放国外，最差的
- 是被杀死。
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:转生成为了只有乙女游戏破灭Flag的邪恶大小姐 9
-DTSTART;VALUE=DATE:20200530
-DTSTAMP;VALUE=DATE:20250707
-UID:264089-9-693068
-CLASS:PUBLIC
-DESCRIPTION:「在睡衣派对上玩兴奋了…」\n\n\n公爵千金卡
- 塔莉娜·克拉艾斯在脑袋撞到石头上时取回了前世的记忆
-  ，发现这里是前世所迷恋的乙女游戏“FORTUNE LOVER”的世
- 界，自己成为了妨碍游戏主人公恋情的邪恶大小姐！\n在
- 游戏里，克拉艾斯被准备的好的结局是流放国外，最差
- 的是被杀死。
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:转生成为了只有乙女游戏破灭Flag的邪恶大小姐 10
-DTSTART;VALUE=DATE:20200606
-DTSTAMP;VALUE=DATE:20250707
-UID:264089-10-693068
-CLASS:PUBLIC
-DESCRIPTION:「破灭的时刻到来了… 前篇」\n\n\n公爵千金卡
- 塔莉娜·克拉艾斯在脑袋撞到石头上时取回了前世的记忆
-  ，发现这里是前世所迷恋的乙女游戏“FORTUNE LOVER”的世
- 界，自己成为了妨碍游戏主人公恋情的邪恶大小姐！\n在
- 游戏里，克拉艾斯被准备的好的结局是流放国外，最差
- 的是被杀死。
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:转生成为了只有乙女游戏破灭Flag的邪恶大小姐 11
-DTSTART;VALUE=DATE:20200613
-DTSTAMP;VALUE=DATE:20250707
-UID:264089-11-693068
-CLASS:PUBLIC
-DESCRIPTION:「破灭的时刻到来了… 后篇」\n\n\n公爵千金卡
- 塔莉娜·克拉艾斯在脑袋撞到石头上时取回了前世的记忆
-  ，发现这里是前世所迷恋的乙女游戏“FORTUNE LOVER”的世
- 界，自己成为了妨碍游戏主人公恋情的邪恶大小姐！\n在
- 游戏里，克拉艾斯被准备的好的结局是流放国外，最差
- 的是被杀死。
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:转生成为了只有乙女游戏破灭Flag的邪恶大小姐 12
-DTSTART;VALUE=DATE:20200620
-DTSTAMP;VALUE=DATE:20250707
-UID:264089-12-693068
-CLASS:PUBLIC
-DESCRIPTION:「最后的剧情到来了…」\n\n\n公爵千金卡塔莉
- 娜·克拉艾斯在脑袋撞到石头上时取回了前世的记忆 ，
- 发现这里是前世所迷恋的乙女游戏“FORTUNE LOVER”的世界
- ，自己成为了妨碍游戏主人公恋情的邪恶大小姐！\n在游
- 戏里，克拉艾斯被准备的好的结局是流放国外，最差的
- 是被杀死。
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:转生成为了只有乙女游戏破灭Flag的邪恶大小姐 0
-DTSTART;VALUE=DATE:20200530
-DTSTAMP;VALUE=DATE:20250707
-UID:264089-0-693068
-CLASS:PUBLIC
-DESCRIPTION:「高潮直前！破灭FLAG对策会议」\n\n\n公爵千金
- 卡塔莉娜·克拉艾斯在脑袋撞到石头上时取回了前世的记
- 忆 ，发现这里是前世所迷恋的乙女游戏“FORTUNE LOVER”的
- 世界，自己成为了妨碍游戏主人公恋情的邪恶大小姐！\n
- 在游戏里，克拉艾斯被准备的好的结局是流放国外，最
- 差的是被杀死。
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
