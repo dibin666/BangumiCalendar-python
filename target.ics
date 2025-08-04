@@ -5,6 +5,100 @@ X-APPLE-CALENDAR-COLOR:#F699C
 X-WR-CALNAME:新番日历
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
+SUMMARY:明天，美食广场见。 1
+DTSTART;VALUE=DATE:20250707
+DTSTAMP;VALUE=DATE:20250804
+UID:528438-1-dibin
+CLASS:PUBLIC
+DESCRIPTION:「「和田1234」「纳斯卡线 外星人」「安剂慰」
+ 「改变吧 在你被迫改变之前」」\n\n\n散发着令人难以搭
+ 话气质的和田；以及因外表像辣妹而让人心生畏惧的山
+ 本。在学校里她们总是独来独往。虽然两人就读不同的
+ 高中，却几乎每天都会在购物中心的美食广场会合。虽
+ 说是会合，但其实也没做什么特别的事，只是随意聊些
+ 有的没的，时而欢笑，时而哭泣，时
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:明天，美食广场见。 2
+DTSTART;VALUE=DATE:20250714
+DTSTAMP;VALUE=DATE:20250804
+UID:528438-2-dibin
+CLASS:PUBLIC
+DESCRIPTION:「「确率机」「单球双倍量」「梦中剧」「为
+ 了与狗相遇」」\n\n\n散发着令人难以搭话气质的和田；
+ 以及因外表像辣妹而让人心生畏惧的山本。在学校里她
+ 们总是独来独往。虽然两人就读不同的高中，却几乎每
+ 天都会在购物中心的美食广场会合。虽说是会合，但其
+ 实也没做什么特别的事，只是随意聊些有的没的，时而
+ 欢笑，时而哭泣，时
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:明天，美食广场见。 3
+DTSTART;VALUE=DATE:20250721
+DTSTAMP;VALUE=DATE:20250804
+UID:528438-3-dibin
+CLASS:PUBLIC
+DESCRIPTION:「「乳力」「NAOKIN」「姐妹」「十月二十一日
+ 」」\n\n\n散发着令人难以搭话气质的和田；以及因外表
+ 像辣妹而让人心生畏惧的山本。在学校里她们总是独来
+ 独往。虽然两人就读不同的高中，却几乎每天都会在购
+ 物中心的美食广场会合。虽说是会合，但其实也没做什
+ 么特别的事，只是随意聊些有的没的，时而欢笑，时而
+ 哭泣，时
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:明天，美食广场见。 4
+DTSTART;VALUE=DATE:20250728
+DTSTAMP;VALUE=DATE:20250804
+UID:528438-4-dibin
+CLASS:PUBLIC
+DESCRIPTION:「「焦糖彩带」「虽然我要走另一边」「但没
+ 有臭味」「普通的和田」」\n\n\n散发着令人难以搭话气
+ 质的和田；以及因外表像辣妹而让人心生畏惧的山本。
+ 在学校里她们总是独来独往。虽然两人就读不同的高中
+ ，却几乎每天都会在购物中心的美食广场会合。虽说是
+ 会合，但其实也没做什么特别的事，只是随意聊些有的
+ 没的，时而欢笑，时而哭泣，时
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:明天，美食广场见。 5
+DTSTART;VALUE=DATE:20250804
+DTSTAMP;VALUE=DATE:20250804
+UID:528438-5-dibin
+CLASS:PUBLIC
+DESCRIPTION:「「SSR」「好烦」「荒滨海水浴场」」\n\n\n散
+ 发着令人难以搭话气质的和田；以及因外表像辣妹而让
+ 人心生畏惧的山本。在学校里她们总是独来独往。虽然
+ 两人就读不同的高中，却几乎每天都会在购物中心的美
+ 食广场会合。虽说是会合，但其实也没做什么特别的事
+ ，只是随意聊些有的没的，时而欢笑，时而哭泣，时
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:明天，美食广场见。 6
+DTSTART;VALUE=DATE:20250811
+DTSTAMP;VALUE=DATE:20250804
+UID:528438-6-dibin
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n散发着令人难以搭话气质的和田；以
+ 及因外表像辣妹而让人心生畏惧的山本。在学校里她们
+ 总是独来独往。虽然两人就读不同的高中，却几乎每天
+ 都会在购物中心的美食广场会合。虽说是会合，但其实
+ 也没做什么特别的事，只是随意聊些有的没的，时而欢
+ 笑，时而哭泣，时
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:小魔女DoReMi 大合奏 1
 DTSTART;VALUE=DATE:20020203
 DTSTAMP;VALUE=DATE:20250804
@@ -1955,100 +2049,6 @@ DESCRIPTION:「」\n\n\n12岁，既不是大人也不是小孩，但说青
  ，染上了一点青春的蓝，而这个过渡期的颜色，正是水
  色，就让我们一起来看看这个属于我们的水色时代的故
  事吧。
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:明天，美食广场见。 1
-DTSTART;VALUE=DATE:20250707
-DTSTAMP;VALUE=DATE:20250804
-UID:528438-1-dibin
-CLASS:PUBLIC
-DESCRIPTION:「「和田1234」「纳斯卡线 外星人」「安剂慰」
- 「改变吧 在你被迫改变之前」」\n\n\n散发着令人难以搭
- 话气质的和田；以及因外表像辣妹而让人心生畏惧的山
- 本。在学校里她们总是独来独往。虽然两人就读不同的
- 高中，却几乎每天都会在购物中心的美食广场会合。虽
- 说是会合，但其实也没做什么特别的事，只是随意聊些
- 有的没的，时而欢笑，时而哭泣，时
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:明天，美食广场见。 2
-DTSTART;VALUE=DATE:20250714
-DTSTAMP;VALUE=DATE:20250804
-UID:528438-2-dibin
-CLASS:PUBLIC
-DESCRIPTION:「「确率机」「单球双倍量」「梦中剧」「为
- 了与狗相遇」」\n\n\n散发着令人难以搭话气质的和田；
- 以及因外表像辣妹而让人心生畏惧的山本。在学校里她
- 们总是独来独往。虽然两人就读不同的高中，却几乎每
- 天都会在购物中心的美食广场会合。虽说是会合，但其
- 实也没做什么特别的事，只是随意聊些有的没的，时而
- 欢笑，时而哭泣，时
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:明天，美食广场见。 3
-DTSTART;VALUE=DATE:20250721
-DTSTAMP;VALUE=DATE:20250804
-UID:528438-3-dibin
-CLASS:PUBLIC
-DESCRIPTION:「「乳力」「NAOKIN」「姐妹」「十月二十一日
- 」」\n\n\n散发着令人难以搭话气质的和田；以及因外表
- 像辣妹而让人心生畏惧的山本。在学校里她们总是独来
- 独往。虽然两人就读不同的高中，却几乎每天都会在购
- 物中心的美食广场会合。虽说是会合，但其实也没做什
- 么特别的事，只是随意聊些有的没的，时而欢笑，时而
- 哭泣，时
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:明天，美食广场见。 4
-DTSTART;VALUE=DATE:20250728
-DTSTAMP;VALUE=DATE:20250804
-UID:528438-4-dibin
-CLASS:PUBLIC
-DESCRIPTION:「「焦糖彩带」「虽然我要走另一边」「但没
- 有臭味」「普通的和田」」\n\n\n散发着令人难以搭话气
- 质的和田；以及因外表像辣妹而让人心生畏惧的山本。
- 在学校里她们总是独来独往。虽然两人就读不同的高中
- ，却几乎每天都会在购物中心的美食广场会合。虽说是
- 会合，但其实也没做什么特别的事，只是随意聊些有的
- 没的，时而欢笑，时而哭泣，时
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:明天，美食广场见。 5
-DTSTART;VALUE=DATE:20250804
-DTSTAMP;VALUE=DATE:20250804
-UID:528438-5-dibin
-CLASS:PUBLIC
-DESCRIPTION:「「SSR」「好烦」「荒滨海水浴场」」\n\n\n散
- 发着令人难以搭话气质的和田；以及因外表像辣妹而让
- 人心生畏惧的山本。在学校里她们总是独来独往。虽然
- 两人就读不同的高中，却几乎每天都会在购物中心的美
- 食广场会合。虽说是会合，但其实也没做什么特别的事
- ，只是随意聊些有的没的，时而欢笑，时而哭泣，时
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:明天，美食广场见。 6
-DTSTART;VALUE=DATE:20250811
-DTSTAMP;VALUE=DATE:20250804
-UID:528438-6-dibin
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n散发着令人难以搭话气质的和田；以
- 及因外表像辣妹而让人心生畏惧的山本。在学校里她们
- 总是独来独往。虽然两人就读不同的高中，却几乎每天
- 都会在购物中心的美食广场会合。虽说是会合，但其实
- 也没做什么特别的事，只是随意聊些有的没的，时而欢
- 笑，时而哭泣，时
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
