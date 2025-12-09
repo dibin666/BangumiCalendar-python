@@ -5,182 +5,195 @@ X-APPLE-CALENDAR-COLOR:#F699C
 X-WR-CALNAME:新番日历
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-SUMMARY:成惠的世界 1
-DTSTART;VALUE=DATE:20030412
+SUMMARY:这里是充满笑容的职场。 1
+DTSTART;VALUE=DATE:20251006
 DTSTAMP;VALUE=DATE:20251209
-UID:2450-1-dibin
+UID:475663-1-dibin
 CLASS:PUBLIC
-DESCRIPTION:「我的女友是外星人」\n\n\n　　饭塚和人是一
- 个普通的中学生，某个雨天，和人的注意力被路旁一只
- 被遗弃的可爱小狗吸引了，却没想到这竟然是伪装成小
- 狗的外星怪物，危急关头突然出现的一名奇特少女用金
- 属球棒将怪物击飞，救下了和人。\n　　和人从少女落下
- 的球棒查到，原来她是邻班的七
+DESCRIPTION:「某漫画家与编辑」\n\n\n双見は駆け出しの少
+ 女漫画家。\nクールな担当編集や、\n頼もしいアシスタ
+ ントらの\n力を借りて、念願の将棋漫画『昴へ』の連載
+ を、\nようやくスタートさせることができたけど……\n\
+ nストレスでお腹をやられて、1話から締切を延ばしても
+ らったり
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:成惠的世界 2
-DTSTART;VALUE=DATE:20030419
+SUMMARY:这里是充满笑容的职场。 2
+DTSTART;VALUE=DATE:20251013
 DTSTAMP;VALUE=DATE:20251209
-UID:2450-2-dibin
+UID:475663-2-dibin
 CLASS:PUBLIC
-DESCRIPTION:「第一次约会」\n\n\n　　饭塚和人是一个普通
- 的中学生，某个雨天，和人的注意力被路旁一只被遗弃
- 的可爱小狗吸引了，却没想到这竟然是伪装成小狗的外
- 星怪物，危急关头突然出现的一名奇特少女用金属球棒
- 将怪物击飞，救下了和人。\n　　和人从少女落下的球棒
- 查到，原来她是邻班的七
+DESCRIPTION:「打从心底觉得可靠的助手」\n\n\n双見は駆け
+ 出しの少女漫画家。\nクールな担当編集や、\n頼もしい
+ アシスタントらの\n力を借りて、念願の将棋漫画『昴へ
+ 』の連載を、\nようやくスタートさせることができたけ
+ ど……\n\nストレスでお腹をやられて、1話から締切を延
+ ばしてもらったり
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:成惠的世界 3
-DTSTART;VALUE=DATE:20030426
+SUMMARY:这里是充满笑容的职场。 3
+DTSTART;VALUE=DATE:20251020
 DTSTAMP;VALUE=DATE:20251209
-UID:2450-3-dibin
+UID:475663-3-dibin
 CLASS:PUBLIC
-DESCRIPTION:「两人的秘密基地」\n\n\n　　饭塚和人是一个
- 普通的中学生，某个雨天，和人的注意力被路旁一只被
- 遗弃的可爱小狗吸引了，却没想到这竟然是伪装成小狗
- 的外星怪物，危急关头突然出现的一名奇特少女用金属
- 球棒将怪物击飞，救下了和人。\n　　和人从少女落下的
- 球棒查到，原来她是邻班的七
+DESCRIPTION:「忙到不可开交的情况」\n\n\n双見は駆け出し
+ の少女漫画家。\nクールな担当編集や、\n頼もしいアシ
+ スタントらの\n力を借りて、念願の将棋漫画『昴へ』の
+ 連載を、\nようやくスタートさせることができたけど…
+ …\n\nストレスでお腹をやられて、1話から締切を延ばし
+ てもらったり
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:成惠的世界 4
-DTSTART;VALUE=DATE:20030503
+SUMMARY:这里是充满笑容的职场。 4
+DTSTART;VALUE=DATE:20251027
 DTSTAMP;VALUE=DATE:20251209
-UID:2450-4-dibin
+UID:475663-4-dibin
 CLASS:PUBLIC
-DESCRIPTION:「年幼的姐姐」\n\n\n　　饭塚和人是一个普通
- 的中学生，某个雨天，和人的注意力被路旁一只被遗弃
- 的可爱小狗吸引了，却没想到这竟然是伪装成小狗的外
- 星怪物，危急关头突然出现的一名奇特少女用金属球棒
- 将怪物击飞，救下了和人。\n　　和人从少女落下的球棒
- 查到，原来她是邻班的七
+DESCRIPTION:「没办法一个人完成的工作」\n\n\n双見は駆け
+ 出しの少女漫画家。\nクールな担当編集や、\n頼もしい
+ アシスタントらの\n力を借りて、念願の将棋漫画『昴へ
+ 』の連載を、\nようやくスタートさせることができたけ
+ ど……\n\nストレスでお腹をやられて、1話から締切を延
+ ばしてもらったり
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:成惠的世界 5
-DTSTART;VALUE=DATE:20030510
+SUMMARY:这里是充满笑容的职场。 5
+DTSTART;VALUE=DATE:20251103
 DTSTAMP;VALUE=DATE:20251209
-UID:2450-5-dibin
+UID:475663-5-dibin
 CLASS:PUBLIC
-DESCRIPTION:「香奈花去学校」\n\n\n　　饭塚和人是一个普
- 通的中学生，某个雨天，和人的注意力被路旁一只被遗
- 弃的可爱小狗吸引了，却没想到这竟然是伪装成小狗的
- 外星怪物，危急关头突然出现的一名奇特少女用金属球
- 棒将怪物击飞，救下了和人。\n　　和人从少女落下的球
- 棒查到，原来她是邻班的七
+DESCRIPTION:「前辈自称是我的劲敌」\n\n\n双見は駆け出し
+ の少女漫画家。\nクールな担当編集や、\n頼もしいアシ
+ スタントらの\n力を借りて、念願の将棋漫画『昴へ』の
+ 連載を、\nようやくスタートさせることができたけど…
+ …\n\nストレスでお腹をやられて、1話から締切を延ばし
+ てもらったり
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:成惠的世界 6
-DTSTART;VALUE=DATE:20030517
+SUMMARY:这里是充满笑容的职场。 6
+DTSTART;VALUE=DATE:20251110
 DTSTAMP;VALUE=DATE:20251209
-UID:2450-6-dibin
+UID:475663-6-dibin
 CLASS:PUBLIC
-DESCRIPTION:「恋爱要有冲击力！」\n\n\n　　饭塚和人是一
- 个普通的中学生，某个雨天，和人的注意力被路旁一只
- 被遗弃的可爱小狗吸引了，却没想到这竟然是伪装成小
- 狗的外星怪物，危急关头突然出现的一名奇特少女用金
- 属球棒将怪物击飞，救下了和人。\n　　和人从少女落下
- 的球棒查到，原来她是邻班的七
+DESCRIPTION:「不可思议的三角关系」\n\n\n双見は駆け出し
+ の少女漫画家。\nクールな担当編集や、\n頼もしいアシ
+ スタントらの\n力を借りて、念願の将棋漫画『昴へ』の
+ 連載を、\nようやくスタートさせることができたけど…
+ …\n\nストレスでお腹をやられて、1話から締切を延ばし
+ てもらったり
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:成惠的世界 7
-DTSTART;VALUE=DATE:20030524
+SUMMARY:这里是充满笑容的职场。 7
+DTSTART;VALUE=DATE:20251117
 DTSTAMP;VALUE=DATE:20251209
-UID:2450-7-dibin
+UID:475663-7-dibin
 CLASS:PUBLIC
-DESCRIPTION:「游泳池？三次危机」\n\n\n　　饭塚和人是一
- 个普通的中学生，某个雨天，和人的注意力被路旁一只
- 被遗弃的可爱小狗吸引了，却没想到这竟然是伪装成小
- 狗的外星怪物，危急关头突然出现的一名奇特少女用金
- 属球棒将怪物击飞，救下了和人。\n　　和人从少女落下
- 的球棒查到，原来她是邻班的七
+DESCRIPTION:「意料不到的发展」\n\n\n双見は駆け出しの少
+ 女漫画家。\nクールな担当編集や、\n頼もしいアシスタ
+ ントらの\n力を借りて、念願の将棋漫画『昴へ』の連載
+ を、\nようやくスタートさせることができたけど……\n\
+ nストレスでお腹をやられて、1話から締切を延ばしても
+ らったり
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:成惠的世界 8
-DTSTART;VALUE=DATE:20030531
+SUMMARY:这里是充满笑容的职场。 8
+DTSTART;VALUE=DATE:20251124
 DTSTAMP;VALUE=DATE:20251209
-UID:2450-8-dibin
+UID:475663-8-dibin
 CLASS:PUBLIC
-DESCRIPTION:「来自地球的信息」\n\n\n　　饭塚和人是一个
- 普通的中学生，某个雨天，和人的注意力被路旁一只被
- 遗弃的可爱小狗吸引了，却没想到这竟然是伪装成小狗
- 的外星怪物，危急关头突然出现的一名奇特少女用金属
- 球棒将怪物击飞，救下了和人。\n　　和人从少女落下的
- 球棒查到，原来她是邻班的七
+DESCRIPTION:「这也是漫画家的工作」\n\n\n双見は駆け出し
+ の少女漫画家。\nクールな担当編集や、\n頼もしいアシ
+ スタントらの\n力を借りて、念願の将棋漫画『昴へ』の
+ 連載を、\nようやくスタートさせることができたけど…
+ …\n\nストレスでお腹をやられて、1話から締切を延ばし
+ てもらったり
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:成惠的世界 9
-DTSTART;VALUE=DATE:20030607
+SUMMARY:这里是充满笑容的职场。 9
+DTSTART;VALUE=DATE:20251201
 DTSTAMP;VALUE=DATE:20251209
-UID:2450-9-dibin
+UID:475663-9-dibin
 CLASS:PUBLIC
-DESCRIPTION:「恋爱的宇宙船」\n\n\n　　饭塚和人是一个普
- 通的中学生，某个雨天，和人的注意力被路旁一只被遗
- 弃的可爱小狗吸引了，却没想到这竟然是伪装成小狗的
- 外星怪物，危急关头突然出现的一名奇特少女用金属球
- 棒将怪物击飞，救下了和人。\n　　和人从少女落下的球
- 棒查到，原来她是邻班的七
+DESCRIPTION:「散步时发现的宝物」\n\n\n双見は駆け出しの
+ 少女漫画家。\nクールな担当編集や、\n頼もしいアシス
+ タントらの\n力を借りて、念願の将棋漫画『昴へ』の連
+ 載を、\nようやくスタートさせることができたけど……
+ \n\nストレスでお腹をやられて、1話から締切を延ばして
+ もらったり
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:成惠的世界 10
-DTSTART;VALUE=DATE:20030614
+SUMMARY:这里是充满笑容的职场。 10
+DTSTART;VALUE=DATE:20251208
 DTSTAMP;VALUE=DATE:20251209
-UID:2450-10-dibin
+UID:475663-10-dibin
 CLASS:PUBLIC
-DESCRIPTION:「Cosplay 大作战」\n\n\n　　饭塚和人是一个普通
- 的中学生，某个雨天，和人的注意力被路旁一只被遗弃
- 的可爱小狗吸引了，却没想到这竟然是伪装成小狗的外
- 星怪物，危急关头突然出现的一名奇特少女用金属球棒
- 将怪物击飞，救下了和人。\n　　和人从少女落下的球棒
- 查到，原来她是邻班的七
+DESCRIPTION:「偶尔也要不工作。」\n\n\n双見は駆け出しの
+ 少女漫画家。\nクールな担当編集や、\n頼もしいアシス
+ タントらの\n力を借りて、念願の将棋漫画『昴へ』の連
+ 載を、\nようやくスタートさせることができたけど……
+ \n\nストレスでお腹をやられて、1話から締切を延ばして
+ もらったり
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:成惠的世界 11
-DTSTART;VALUE=DATE:20030621
+SUMMARY:这里是充满笑容的职场。 11
+DTSTART;VALUE=DATE:20251215
 DTSTAMP;VALUE=DATE:20251209
-UID:2450-11-dibin
+UID:475663-11-dibin
 CLASS:PUBLIC
-DESCRIPTION:「小小婚礼」\n\n\n　　饭塚和人是一个普通的
- 中学生，某个雨天，和人的注意力被路旁一只被遗弃的
- 可爱小狗吸引了，却没想到这竟然是伪装成小狗的外星
- 怪物，危急关头突然出现的一名奇特少女用金属球棒将
- 怪物击飞，救下了和人。\n　　和人从少女落下的球棒查
- 到，原来她是邻班的七
+DESCRIPTION:「亲身体验很重要」\n\n\n双見は駆け出しの少
+ 女漫画家。\nクールな担当編集や、\n頼もしいアシスタ
+ ントらの\n力を借りて、念願の将棋漫画『昴へ』の連載
+ を、\nようやくスタートさせることができたけど……\n\
+ nストレスでお腹をやられて、1話から締切を延ばしても
+ らったり
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:成惠的世界 12
-DTSTART;VALUE=DATE:20030628
+SUMMARY:这里是充满笑容的职场。 12
+DTSTART;VALUE=DATE:20251222
 DTSTAMP;VALUE=DATE:20251209
-UID:2450-12-dibin
+UID:475663-12-dibin
 CLASS:PUBLIC
-DESCRIPTION:「祭典之夜」\n\n\n　　饭塚和人是一个普通的
- 中学生，某个雨天，和人的注意力被路旁一只被遗弃的
- 可爱小狗吸引了，却没想到这竟然是伪装成小狗的外星
- 怪物，危急关头突然出现的一名奇特少女用金属球棒将
- 怪物击飞，救下了和人。\n　　和人从少女落下的球棒查
- 到，原来她是邻班的七
+DESCRIPTION:「」\n\n\n双見は駆け出しの少女漫画家。\nクー
+ ルな担当編集や、\n頼もしいアシスタントらの\n力を借
+ りて、念願の将棋漫画『昴へ』の連載を、\nようやくス
+ タートさせることができたけど……\n\nストレスでお腹
+ をやられて、1話から締切を延ばしてもらったり
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:这里是充满笑容的职场。 13
+DTSTART;VALUE=DATE:20251229
+DTSTAMP;VALUE=DATE:20251209
+UID:475663-13-dibin
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n双見は駆け出しの少女漫画家。\nクー
+ ルな担当編集や、\n頼もしいアシスタントらの\n力を借
+ りて、念願の将棋漫画『昴へ』の連載を、\nようやくス
+ タートさせることができたけど……\n\nストレスでお腹
+ をやられて、1話から締切を延ばしてもらったり
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1337,199 +1350,6 @@ DESCRIPTION:「联系回忆的方法」\n\n\n樋口健太郎的双亲在
  天。某日，一个叫做美纱的女孩出现并改变了健太郎的
  生活，她住在健太郎的隔壁，性格活泼又开朗，而她的
  真实身份，居然是实习天使。\n
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:这里是充满笑容的职场。 1
-DTSTART;VALUE=DATE:20251006
-DTSTAMP;VALUE=DATE:20251209
-UID:475663-1-dibin
-CLASS:PUBLIC
-DESCRIPTION:「某漫画家与编辑」\n\n\n双見は駆け出しの少
- 女漫画家。\nクールな担当編集や、\n頼もしいアシスタ
- ントらの\n力を借りて、念願の将棋漫画『昴へ』の連載
- を、\nようやくスタートさせることができたけど……\n\
- nストレスでお腹をやられて、1話から締切を延ばしても
- らったり
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:这里是充满笑容的职场。 2
-DTSTART;VALUE=DATE:20251013
-DTSTAMP;VALUE=DATE:20251209
-UID:475663-2-dibin
-CLASS:PUBLIC
-DESCRIPTION:「打从心底觉得可靠的助手」\n\n\n双見は駆け
- 出しの少女漫画家。\nクールな担当編集や、\n頼もしい
- アシスタントらの\n力を借りて、念願の将棋漫画『昴へ
- 』の連載を、\nようやくスタートさせることができたけ
- ど……\n\nストレスでお腹をやられて、1話から締切を延
- ばしてもらったり
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:这里是充满笑容的职场。 3
-DTSTART;VALUE=DATE:20251020
-DTSTAMP;VALUE=DATE:20251209
-UID:475663-3-dibin
-CLASS:PUBLIC
-DESCRIPTION:「忙到不可开交的情况」\n\n\n双見は駆け出し
- の少女漫画家。\nクールな担当編集や、\n頼もしいアシ
- スタントらの\n力を借りて、念願の将棋漫画『昴へ』の
- 連載を、\nようやくスタートさせることができたけど…
- …\n\nストレスでお腹をやられて、1話から締切を延ばし
- てもらったり
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:这里是充满笑容的职场。 4
-DTSTART;VALUE=DATE:20251027
-DTSTAMP;VALUE=DATE:20251209
-UID:475663-4-dibin
-CLASS:PUBLIC
-DESCRIPTION:「没办法一个人完成的工作」\n\n\n双見は駆け
- 出しの少女漫画家。\nクールな担当編集や、\n頼もしい
- アシスタントらの\n力を借りて、念願の将棋漫画『昴へ
- 』の連載を、\nようやくスタートさせることができたけ
- ど……\n\nストレスでお腹をやられて、1話から締切を延
- ばしてもらったり
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:这里是充满笑容的职场。 5
-DTSTART;VALUE=DATE:20251103
-DTSTAMP;VALUE=DATE:20251209
-UID:475663-5-dibin
-CLASS:PUBLIC
-DESCRIPTION:「前辈自称是我的劲敌」\n\n\n双見は駆け出し
- の少女漫画家。\nクールな担当編集や、\n頼もしいアシ
- スタントらの\n力を借りて、念願の将棋漫画『昴へ』の
- 連載を、\nようやくスタートさせることができたけど…
- …\n\nストレスでお腹をやられて、1話から締切を延ばし
- てもらったり
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:这里是充满笑容的职场。 6
-DTSTART;VALUE=DATE:20251110
-DTSTAMP;VALUE=DATE:20251209
-UID:475663-6-dibin
-CLASS:PUBLIC
-DESCRIPTION:「不可思议的三角关系」\n\n\n双見は駆け出し
- の少女漫画家。\nクールな担当編集や、\n頼もしいアシ
- スタントらの\n力を借りて、念願の将棋漫画『昴へ』の
- 連載を、\nようやくスタートさせることができたけど…
- …\n\nストレスでお腹をやられて、1話から締切を延ばし
- てもらったり
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:这里是充满笑容的职场。 7
-DTSTART;VALUE=DATE:20251117
-DTSTAMP;VALUE=DATE:20251209
-UID:475663-7-dibin
-CLASS:PUBLIC
-DESCRIPTION:「意料不到的发展」\n\n\n双見は駆け出しの少
- 女漫画家。\nクールな担当編集や、\n頼もしいアシスタ
- ントらの\n力を借りて、念願の将棋漫画『昴へ』の連載
- を、\nようやくスタートさせることができたけど……\n\
- nストレスでお腹をやられて、1話から締切を延ばしても
- らったり
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:这里是充满笑容的职场。 8
-DTSTART;VALUE=DATE:20251124
-DTSTAMP;VALUE=DATE:20251209
-UID:475663-8-dibin
-CLASS:PUBLIC
-DESCRIPTION:「这也是漫画家的工作」\n\n\n双見は駆け出し
- の少女漫画家。\nクールな担当編集や、\n頼もしいアシ
- スタントらの\n力を借りて、念願の将棋漫画『昴へ』の
- 連載を、\nようやくスタートさせることができたけど…
- …\n\nストレスでお腹をやられて、1話から締切を延ばし
- てもらったり
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:这里是充满笑容的职场。 9
-DTSTART;VALUE=DATE:20251201
-DTSTAMP;VALUE=DATE:20251209
-UID:475663-9-dibin
-CLASS:PUBLIC
-DESCRIPTION:「散步时发现的宝物」\n\n\n双見は駆け出しの
- 少女漫画家。\nクールな担当編集や、\n頼もしいアシス
- タントらの\n力を借りて、念願の将棋漫画『昴へ』の連
- 載を、\nようやくスタートさせることができたけど……
- \n\nストレスでお腹をやられて、1話から締切を延ばして
- もらったり
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:这里是充满笑容的职场。 10
-DTSTART;VALUE=DATE:20251208
-DTSTAMP;VALUE=DATE:20251209
-UID:475663-10-dibin
-CLASS:PUBLIC
-DESCRIPTION:「偶尔也要不工作。」\n\n\n双見は駆け出しの
- 少女漫画家。\nクールな担当編集や、\n頼もしいアシス
- タントらの\n力を借りて、念願の将棋漫画『昴へ』の連
- 載を、\nようやくスタートさせることができたけど……
- \n\nストレスでお腹をやられて、1話から締切を延ばして
- もらったり
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:这里是充满笑容的职场。 11
-DTSTART;VALUE=DATE:20251215
-DTSTAMP;VALUE=DATE:20251209
-UID:475663-11-dibin
-CLASS:PUBLIC
-DESCRIPTION:「亲身体验很重要」\n\n\n双見は駆け出しの少
- 女漫画家。\nクールな担当編集や、\n頼もしいアシスタ
- ントらの\n力を借りて、念願の将棋漫画『昴へ』の連載
- を、\nようやくスタートさせることができたけど……\n\
- nストレスでお腹をやられて、1話から締切を延ばしても
- らったり
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:这里是充满笑容的职场。 12
-DTSTART;VALUE=DATE:20251222
-DTSTAMP;VALUE=DATE:20251209
-UID:475663-12-dibin
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n双見は駆け出しの少女漫画家。\nクー
- ルな担当編集や、\n頼もしいアシスタントらの\n力を借
- りて、念願の将棋漫画『昴へ』の連載を、\nようやくス
- タートさせることができたけど……\n\nストレスでお腹
- をやられて、1話から締切を延ばしてもらったり
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:这里是充满笑容的职场。 13
-DTSTART;VALUE=DATE:20251229
-DTSTAMP;VALUE=DATE:20251209
-UID:475663-13-dibin
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n双見は駆け出しの少女漫画家。\nクー
- ルな担当編集や、\n頼もしいアシスタントらの\n力を借
- りて、念願の将棋漫画『昴へ』の連載を、\nようやくス
- タートさせることができたけど……\n\nストレスでお腹
- をやられて、1話から締切を延ばしてもらったり
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -11108,6 +10928,186 @@ DTSTAMP;VALUE=DATE:20251209
 UID:54277-50-dibin
 CLASS:PUBLIC
 DESCRIPTION:「上天选择的未来」\n\n\n
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:向山进发 Next Summit 1
+DTSTART;VALUE=DATE:20221004
+DTSTAMP;VALUE=DATE:20251209
+UID:290980-1-dibin
+CLASS:PUBLIC
+DESCRIPTION:「向山进发前传／第一季春」\n\n\n继登上了标
+ 高197m的天览山后，葵和日向二人又登上了599m的高尾山、
+ 1786m的三峠山，不断创下新高。而后她们也登顶了那座回
+ 忆中的山——谷川岳。在周游关东名峰的过程中结识了
+ 可可奈、枫以及穗香等人，她们的户外活动也由此变得
+ 多姿多彩。而在丰富
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:向山进发 Next Summit 2
+DTSTART;VALUE=DATE:20221011
+DTSTAMP;VALUE=DATE:20251209
+UID:290980-2-dibin
+CLASS:PUBLIC
+DESCRIPTION:「奔跑吧！登山女孩／第二季夏 前篇」\n\n\n继
+ 登上了标高197m的天览山后，葵和日向二人又登上了599m的
+ 高尾山、1786m的三峠山，不断创下新高。而后她们也登顶
+ 了那座回忆中的山——谷川岳。在周游关东名峰的过程
+ 中结识了可可奈、枫以及穗香等人，她们的户外活动也
+ 由此变得多姿多彩。而在丰富
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:向山进发 Next Summit 3
+DTSTART;VALUE=DATE:20221018
+DTSTAMP;VALUE=DATE:20251209
+UID:290980-3-dibin
+CLASS:PUBLIC
+DESCRIPTION:「在都内爬山！？／第二季夏 后篇」\n\n\n继登
+ 上了标高197m的天览山后，葵和日向二人又登上了599m的高
+ 尾山、1786m的三峠山，不断创下新高。而后她们也登顶了
+ 那座回忆中的山——谷川岳。在周游关东名峰的过程中
+ 结识了可可奈、枫以及穗香等人，她们的户外活动也由
+ 此变得多姿多彩。而在丰富
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:向山进发 Next Summit 4
+DTSTART;VALUE=DATE:20221025
+DTSTAMP;VALUE=DATE:20251209
+UID:290980-4-dibin
+CLASS:PUBLIC
+DESCRIPTION:「梦里都见到了吗？富士◯◯／第三季秋」\n\n\
+ n继登上了标高197m的天览山后，葵和日向二人又登上了599
+ m的高尾山、1786m的三峠山，不断创下新高。而后她们也
+ 登顶了那座回忆中的山——谷川岳。在周游关东名峰的
+ 过程中结识了可可奈、枫以及穗香等人，她们的户外活
+ 动也由此变得多姿多彩。而在丰富
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:向山进发 Next Summit 5
+DTSTART;VALUE=DATE:20221101
+DTSTAMP;VALUE=DATE:20251209
+UID:290980-5-dibin
+CLASS:PUBLIC
+DESCRIPTION:「来自登山社的挑战！？／在武甲山实施爱的
+ 鞭策？」\n\n\n继登上了标高197m的天览山后，葵和日向二
+ 人又登上了599m的高尾山、1786m的三峠山，不断创下新高
+ 。而后她们也登顶了那座回忆中的山——谷川岳。在周
+ 游关东名峰的过程中结识了可可奈、枫以及穗香等人，
+ 她们的户外活动也由此变得多姿多彩。而在丰富
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:向山进发 Next Summit 6
+DTSTART;VALUE=DATE:20221108
+DTSTAMP;VALUE=DATE:20251209
+UID:290980-6-dibin
+CLASS:PUBLIC
+DESCRIPTION:「光的约会大作战！／大家一起过白色圣诞节
+ ！」\n\n\n继登上了标高197m的天览山后，葵和日向二人又
+ 登上了599m的高尾山、1786m的三峠山，不断创下新高。而
+ 后她们也登顶了那座回忆中的山——谷川岳。在周游关
+ 东名峰的过程中结识了可可奈、枫以及穗香等人，她们
+ 的户外活动也由此变得多姿多彩。而在丰富
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:向山进发 Next Summit 7
+DTSTART;VALUE=DATE:20221115
+DTSTAMP;VALUE=DATE:20251209
+UID:290980-7-dibin
+CLASS:PUBLIC
+DESCRIPTION:「元旦日出，去哪里看？／跟同学一起登山！
+ 」\n\n\n继登上了标高197m的天览山后，葵和日向二人又登
+ 上了599m的高尾山、1786m的三峠山，不断创下新高。而后
+ 她们也登顶了那座回忆中的山——谷川岳。在周游关东
+ 名峰的过程中结识了可可奈、枫以及穗香等人，她们的
+ 户外活动也由此变得多姿多彩。而在丰富
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:向山进发 Next Summit 8
+DTSTART;VALUE=DATE:20221122
+DTSTAMP;VALUE=DATE:20251209
+UID:290980-8-dibin
+CLASS:PUBLIC
+DESCRIPTION:「在灵力圣地过情人节？／挑战雪鞋！」\n\n\n
+ 继登上了标高197m的天览山后，葵和日向二人又登上了599m
+ 的高尾山、1786m的三峠山，不断创下新高。而后她们也登
+ 顶了那座回忆中的山——谷川岳。在周游关东名峰的过
+ 程中结识了可可奈、枫以及穗香等人，她们的户外活动
+ 也由此变得多姿多彩。而在丰富
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:向山进发 Next Summit 9
+DTSTART;VALUE=DATE:20221129
+DTSTAMP;VALUE=DATE:20251209
+UID:290980-9-dibin
+CLASS:PUBLIC
+DESCRIPTION:「溪钓，相当于人生？／跟日向家一起，向镰
+ 仓进发！」\n\n\n继登上了标高197m的天览山后，葵和日向
+ 二人又登上了599m的高尾山、1786m的三峠山，不断创下新
+ 高。而后她们也登顶了那座回忆中的山——谷川岳。在
+ 周游关东名峰的过程中结识了可可奈、枫以及穗香等人
+ ，她们的户外活动也由此变得多姿多彩。而在丰富
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:向山进发 Next Summit 10
+DTSTART;VALUE=DATE:20221206
+DTSTAMP;VALUE=DATE:20251209
+UID:290980-10-dibin
+CLASS:PUBLIC
+DESCRIPTION:「新的季节」\n\n\n继登上了标高197m的天览山后
+ ，葵和日向二人又登上了599m的高尾山、1786m的三峠山，
+ 不断创下新高。而后她们也登顶了那座回忆中的山——
+ 谷川岳。在周游关东名峰的过程中结识了可可奈、枫以
+ 及穗香等人，她们的户外活动也由此变得多姿多彩。而
+ 在丰富
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:向山进发 Next Summit 11
+DTSTART;VALUE=DATE:20221213
+DTSTAMP;VALUE=DATE:20251209
+UID:290980-11-dibin
+CLASS:PUBLIC
+DESCRIPTION:「又见面了呢！富士山」\n\n\n继登上了标高197m
+ 的天览山后，葵和日向二人又登上了599m的高尾山、1786m
+ 的三峠山，不断创下新高。而后她们也登顶了那座回忆
+ 中的山——谷川岳。在周游关东名峰的过程中结识了可
+ 可奈、枫以及穗香等人，她们的户外活动也由此变得多
+ 姿多彩。而在丰富
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:向山进发 Next Summit 12
+DTSTART;VALUE=DATE:20221220
+DTSTAMP;VALUE=DATE:20251209
+UID:290980-12-dibin
+CLASS:PUBLIC
+DESCRIPTION:「出发吧！攀上新的巅峰」\n\n\n继登上了标高19
+ 7m的天览山后，葵和日向二人又登上了599m的高尾山、1786m
+ 的三峠山，不断创下新高。而后她们也登顶了那座回忆
+ 中的山——谷川岳。在周游关东名峰的过程中结识了可
+ 可奈、枫以及穗香等人，她们的户外活动也由此变得多
+ 姿多彩。而在丰富
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
