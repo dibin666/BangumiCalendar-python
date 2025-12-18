@@ -5,6 +5,21 @@ X-APPLE-CALENDAR-COLOR:#F699C
 X-WR-CALNAME:新番日历
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
+SUMMARY:机动战士高达 剧场版II 哀・战士 1
+DTSTART;VALUE=DATE:19810711
+DTSTAMP;VALUE=DATE:20251218
+UID:38436-1-dibin
+CLASS:PUBLIC
+DESCRIPTION:「机动战士高达 剧场版Ⅱ 哀·战士篇」\n\n\n戦
+ 場での敗北が死であることを教えたランバ・ラル。ア
+ ムロを救うために命を落としたリュウ・ホセイ。アム
+ ロが淡い恋心を抱き、ホワイトベースを護って散った
+ マチルダ中尉。彼らとの別れと哀しみが、アムロを成
+ 長させてゆく。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:乱马1/2 第二季 1
 DTSTART;VALUE=DATE:20251004
 DTSTAMP;VALUE=DATE:20251218
@@ -174,25 +189,12 @@ DTSTART;VALUE=DATE:20251220
 DTSTAMP;VALUE=DATE:20251218
 UID:529966-12-dibin
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n早乙女乱馬と、 天道道場三女の天道
- あかねは親が決めた許婚同士。\nしかし乱馬にはある悩
- みが…。\n中国での修行中、伝説の修行場「呪泉郷」に
- 落ちてしまい、\n水をかぶると女に、\nお湯をかぶると
- 男に戻る\nという、不思議な体質になってしまって
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:机动战士高达 剧场版I 1
-DTSTART;VALUE=DATE:19810314
-DTSTAMP;VALUE=DATE:20251218
-UID:38435-1-dibin
-CLASS:PUBLIC
-DESCRIPTION:「机动战士高达 剧场版Ⅰ」\n\n\n宇宙世紀0079、
- ジオン公国軍シャア・アズナブル部隊は、連邦軍が開
- 発中のモビルスーツ・ガンダムを狙いスペースコロニ
- ーサイド7に侵入。サイド7で暮らすアムロ・レイは、ガ
- ンダムのパイロットとして戦争に巻き込まれる。
+DESCRIPTION:「加油沐丝」\n\n\n早乙女乱馬と、 天道道場三
+ 女の天道あかねは親が決めた許婚同士。\nしかし乱馬に
+ はある悩みが…。\n中国での修行中、伝説の修行場「呪
+ 泉郷」に落ちてしまい、\n水をかぶると女に、\nお湯を
+ かぶると男に戻る\nという、不思議な体質になってしま
+ って
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
