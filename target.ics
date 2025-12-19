@@ -5,17 +5,17 @@ X-APPLE-CALENDAR-COLOR:#F699C
 X-WR-CALNAME:新番日历
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-SUMMARY:机动战士高达 剧场版II 哀・战士 1
-DTSTART;VALUE=DATE:19810711
+SUMMARY:机动战士高达 剧场版III 相逢在宇宙 1
+DTSTART;VALUE=DATE:19820313
 DTSTAMP;VALUE=DATE:20251219
-UID:38436-1-dibin
+UID:38437-1-dibin
 CLASS:PUBLIC
-DESCRIPTION:「机动战士高达 剧场版Ⅱ 哀·战士篇」\n\n\n戦
- 場での敗北が死であることを教えたランバ・ラル。ア
- ムロを救うために命を落としたリュウ・ホセイ。アム
- ロが淡い恋心を抱き、ホワイトベースを護って散った
- マチルダ中尉。彼らとの別れと哀しみが、アムロを成
- 長させてゆく。
+DESCRIPTION:「机动战士高达 剧场版Ⅲ 相逢在宇宙篇」\n\n\n
+ アムロが出会ったララァはシャアをガンダムから守っ
+ て命を落とし、アムロは取り返しの付かないことをし
+ た自分に愕然とする。連邦とジオンの最終決戦の果て
+ に、アムロは何を見出すのか？アニメ史に残る名作、
+ ここに完結。
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
