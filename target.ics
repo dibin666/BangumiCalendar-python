@@ -2456,12 +2456,12 @@ DTSTART;VALUE=DATE:20260823
 DTSTAMP;VALUE=DATE:20260817
 UID:576351-20-dibin
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n「魔女见习生」丝碧卡·瓦戈完全不会
- 使用魔法。为了考上梦寐以求的魔法学校，她急需一位
- 师傅指点，却苦于没有金钱也没有人脉。就在此时，一
- 只会说人类语言、还会使用魔法的神秘黑猫出现在她眼
- 前！\n渴望学习魔术的丝碧卡，与一心想解开诅咒的黑猫
- 。两人的目
+DESCRIPTION:「钻石的所在之处」\n\n\n「魔女见习生」丝碧
+ 卡·瓦戈完全不会使用魔法。为了考上梦寐以求的魔法学
+ 校，她急需一位师傅指点，却苦于没有金钱也没有人脉
+ 。就在此时，一只会说人类语言、还会使用魔法的神秘
+ 黑猫出现在她眼前！\n渴望学习魔术的丝碧卡，与一心想
+ 解开诅咒的黑猫。两人的目
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -4869,11 +4869,12 @@ DTSTART;VALUE=DATE:20260809
 DTSTAMP;VALUE=DATE:20260817
 UID:611077-28-dibin
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n【明智あんな】は、マコトミライタ
- ウンに暮らす14歳の中学２年生！\n誕生日に現れた妖精
- 【ポチタン】とお部屋にあったペンダントに導かれて\n
- 2027年から1999年のまことみらい市にタイムスリップ…！
- \n\nそこで出会ったのは、名探偵に憧れて
+DESCRIPTION:「谜之怪盗 德奇·阿盖因」\n\n\n【明智あんな
+ 】は、マコトミライタウンに暮らす14歳の中学２年生！
+ \n誕生日に現れた妖精【ポチタン】とお部屋にあったペ
+ ンダントに導かれて\n2027年から1999年のまことみらい市
+ にタイムスリップ…！\n\nそこで出会ったのは、名探偵
+ に憧れて
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -4883,11 +4884,11 @@ DTSTART;VALUE=DATE:20260816
 DTSTAMP;VALUE=DATE:20260817
 UID:611077-29-dibin
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n【明智あんな】は、マコトミライタ
- ウンに暮らす14歳の中学２年生！\n誕生日に現れた妖精
- 【ポチタン】とお部屋にあったペンダントに導かれて\n
- 2027年から1999年のまことみらい市にタイムスリップ…！
- \n\nそこで出会ったのは、名探偵に憧れて
+DESCRIPTION:「二人的过去」\n\n\n【明智あんな】は、マコ
+ トミライタウンに暮らす14歳の中学２年生！\n誕生日に
+ 現れた妖精【ポチタン】とお部屋にあったペンダント
+ に導かれて\n2027年から1999年のまことみらい市にタイム
+ スリップ…！\n\nそこで出会ったのは、名探偵に憧れて
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -5216,6 +5217,20 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:名侦探光之美少女！ 0
 DTSTART;VALUE=DATE:20260201
+DTSTAMP;VALUE=DATE:20260817
+UID:611077-0-dibin
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n【明智あんな】は、マコトミライタ
+ ウンに暮らす14歳の中学２年生！\n誕生日に現れた妖精
+ 【ポチタン】とお部屋にあったペンダントに導かれて\n
+ 2027年から1999年のまことみらい市にタイムスリップ…！
+ \n\nそこで出会ったのは、名探偵に憧れて
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:名侦探光之美少女！ 0
+DTSTART;VALUE=DATE:20260816
 DTSTAMP;VALUE=DATE:20260817
 UID:611077-0-dibin
 CLASS:PUBLIC
